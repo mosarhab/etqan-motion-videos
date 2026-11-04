@@ -1,0 +1,49 @@
+{
+  "duration": 60,
+  "width": 1080,
+  "height": 1920,
+  "playbackAdvanced": 1.84151,
+  "seeks": [
+    {
+      "requested": 4,
+      "actual": 4,
+      "readyState": 4
+    },
+    {
+      "requested": 13,
+      "actual": 13,
+      "readyState": 4
+    },
+    {
+      "requested": 21,
+      "actual": 21,
+      "readyState": 4
+    },
+    {
+      "requested": 30,
+      "actual": 30,
+      "readyState": 4
+    },
+    {
+      "requested": 40,
+      "actual": 40,
+      "readyState": 4
+    },
+    {
+      "requested": 49,
+      "actual": 49,
+      "readyState": 4
+    },
+    {
+      "requested": 55,
+      "actual": 55,
+      "readyState": 4
+    },
+    {
+      "requested": 59,
+      "actual": 59,
+      "readyState": 4
+    }
+  ],
+  "error": null
+}
