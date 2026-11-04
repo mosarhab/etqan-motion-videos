@@ -1,0 +1,10 @@
+node_modules/
+work/
+out/*
+!out/etqan-riyadh-brand-film-60s.mp4
+!out/etqan-riyadh-brand-film-60s-final.mp4
+!out/final-render-proof.json
+!out/final-verification-report.md
+!out/final-contact-sheet.jpg
+!out/final-delivery-manifest.json
+!out/github-download-verification.json
