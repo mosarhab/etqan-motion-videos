@@ -1,0 +1,9 @@
+node_modules/
+work/
+out/*
+!out/etqan-cinematic-3d-60s.mp4
+!out/verification-report.md
+!out/render-proof.json
+!out/contact-sheet.jpg
+!out/github-download-verification.json
+!out/file-manifest.json
