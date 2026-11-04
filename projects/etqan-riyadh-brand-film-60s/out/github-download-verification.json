@@ -1,0 +1,139 @@
+{
+  "verified_at": "2026-11-04T18:51:19.597530+03:00",
+  "repository": "mosarhab/etqan-motion-videos",
+  "branch": "delivery-etqan-riyadh-60s-final-20261104",
+  "media_commit": "7505c45803a781c397c7658319522740ac41bb87",
+  "expected_bytes": 10696787,
+  "expected_sha256": "d3bdb1500af9ccc9577cb6f6713b6eadce96598f467466b418475a08fa1bbe88",
+  "unauthenticated_public_https": true,
+  "downloads": [
+    {
+      "name": "github_branch_download",
+      "requested_url": "https://github.com/mosarhab/etqan-motion-videos/raw/refs/heads/delivery-etqan-riyadh-60s-final-20261104/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4",
+      "effective_url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/refs/heads/delivery-etqan-riyadh-60s-final-20261104/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4",
+      "http_status": 200,
+      "content_type": "application/octet-stream",
+      "downloaded_bytes": 10696787,
+      "sha256": "d3bdb1500af9ccc9577cb6f6713b6eadce96598f467466b418475a08fa1bbe88",
+      "matches_final_render": true,
+      "tls_certificate_verified": true,
+      "downloaded_file_ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "60.000000",
+            "nb_frames": "1800",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "duration": "60.000000",
+            "nb_frames": "2814"
+          }
+        ],
+        "format": {
+          "duration": "60.000000",
+          "size": "10696787"
+        }
+      }
+    },
+    {
+      "name": "immutable_raw_download",
+      "requested_url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/7505c45803a781c397c7658319522740ac41bb87/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4",
+      "effective_url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/7505c45803a781c397c7658319522740ac41bb87/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4",
+      "http_status": 200,
+      "content_type": "application/octet-stream",
+      "downloaded_bytes": 10696787,
+      "sha256": "d3bdb1500af9ccc9577cb6f6713b6eadce96598f467466b418475a08fa1bbe88",
+      "matches_final_render": true,
+      "tls_certificate_verified": true,
+      "downloaded_file_ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "60.000000",
+            "nb_frames": "1800",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "duration": "60.000000",
+            "nb_frames": "2814"
+          }
+        ],
+        "format": {
+          "duration": "60.000000",
+          "size": "10696787"
+        }
+      }
+    }
+  ],
+  "preservation": {
+    "main_before": "567187d949ff260176b68531fd21057eacf0686e",
+    "main_after_media_delivery": "567187d949ff260176b68531fd21057eacf0686e",
+    "main_unchanged": true,
+    "root_readme_blob_unchanged": "d9dbdf1dece017ec7b567f3cf0ce95d2a0fb8486",
+    "root_logo_blob_unchanged": "731714d1fbf04b75278aa277dc697f498af9881d",
+    "original_review_video_preserved": true,
+    "only_project_files_added": true,
+    "media_commit_added_paths": [
+      "projects/etqan-riyadh-brand-film-60s/.gitignore",
+      "projects/etqan-riyadh-brand-film-60s/CREDITS.md",
+      "projects/etqan-riyadh-brand-film-60s/README.md",
+      "projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4",
+      "projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s.mp4",
+      "projects/etqan-riyadh-brand-film-60s/out/final-contact-sheet.jpg",
+      "projects/etqan-riyadh-brand-film-60s/out/final-delivery-manifest.json",
+      "projects/etqan-riyadh-brand-film-60s/out/final-render-proof.json",
+      "projects/etqan-riyadh-brand-film-60s/out/final-verification-report.md",
+      "projects/etqan-riyadh-brand-film-60s/package-lock.json",
+      "projects/etqan-riyadh-brand-film-60s/package.json",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/Cairo-OFL.txt",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/cairo-arabic-600-normal.woff2",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/cairo-arabic-700-normal.woff2",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/cairo-latin-600-normal.woff2",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/cairo-latin-700-normal.woff2",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/etqan-logo.png",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/ne-countries.geojson",
+      "projects/etqan-riyadh-brand-film-60s/public/assets/original-score.wav",
+      "projects/etqan-riyadh-brand-film-60s/scripts/audit-project.py",
+      "projects/etqan-riyadh-brand-film-60s/scripts/check-preview.mjs",
+      "projects/etqan-riyadh-brand-film-60s/scripts/finalize-delivery.py",
+      "projects/etqan-riyadh-brand-film-60s/scripts/render.mjs",
+      "projects/etqan-riyadh-brand-film-60s/scripts/serve-preview.py",
+      "projects/etqan-riyadh-brand-film-60s/scripts/synthesize-score.py",
+      "projects/etqan-riyadh-brand-film-60s/scripts/verify-final.py",
+      "projects/etqan-riyadh-brand-film-60s/src/Film.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/Root.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/brand.ts",
+      "projects/etqan-riyadh-brand-film-60s/src/design.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/geography.json",
+      "projects/etqan-riyadh-brand-film-60s/src/index.ts",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/ArrivalScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/AsphaltScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/ConcreteScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/GlobeScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/JourneyScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/OutroScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/ResultsScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/src/scenes/SoilScene.tsx",
+      "projects/etqan-riyadh-brand-film-60s/tsconfig.json"
+    ]
+  }
+}

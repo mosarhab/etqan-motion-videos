@@ -28,4 +28,12 @@ Re-rendering was necessary to include the authentic logo, apply the authentic pa
 
 Branch: `delivery-etqan-riyadh-60s-final-20261104`. Main is not merged or changed, and no website is deployed.
 
-Remote verification is pending until the branch is pushed and the MP4 is downloaded over public HTTPS. This report will be updated with the verified download receipt before delivery is declared complete.
+**Public HTTPS download verified** at 2026-11-04T18:51:19.597530+03:00 (Asia/Riyadh). Both the GitHub download URL and the immutable GitHub raw URL returned HTTP 200 without authentication. Each downloaded all 10,696,787 bytes and matched SHA-256 `d3bdb1500af9ccc9577cb6f6713b6eadce96598f467466b418475a08fa1bbe88`. FFprobe on the downloaded files confirmed the same 60.000-second, 1800-frame H.264/AAC video.
+
+- [Download final MP4 from GitHub](https://github.com/mosarhab/etqan-motion-videos/raw/refs/heads/delivery-etqan-riyadh-60s-final-20261104/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4)
+- [Immutable direct MP4 download](https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/7505c45803a781c397c7658319522740ac41bb87/projects/etqan-riyadh-brand-film-60s/out/etqan-riyadh-brand-film-60s-final.mp4)
+- [Source project on the delivery branch](https://github.com/mosarhab/etqan-motion-videos/tree/delivery-etqan-riyadh-60s-final-20261104/projects/etqan-riyadh-brand-film-60s)
+- [Full HTTP/download verification receipt](github-download-verification.json)
+- [Exact committed file manifest](final-delivery-manifest.json)
+
+Media commit: `7505c45803a781c397c7658319522740ac41bb87`. The root README and root logo retain their original Git blob hashes. All media-commit additions are inside this project, and main remains at `567187d949ff260176b68531fd21057eacf0686e`. The delivery uses GitHub file downloads; it has no local-preview dependency and no website deployment.
