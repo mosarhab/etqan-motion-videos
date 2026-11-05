@@ -1,0 +1,88 @@
+{
+  "verified_at": "2026-11-05T05:05:22.934421+03:00",
+  "repository": "mosarhab/etqan-motion-videos",
+  "branch": "delivery-etqan-cinematic-3d-60s-20261104",
+  "media_commit": "390fb8e8b09670905167895165a3e10178b77c48",
+  "bytes": 31812898,
+  "sha256": "3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb",
+  "public_unauthenticated_https": true,
+  "downloads": [
+    {
+      "url": "https://github.com/mosarhab/etqan-motion-videos/raw/refs/heads/delivery-etqan-cinematic-3d-60s-20261104/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4",
+      "effective_url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/refs/heads/delivery-etqan-cinematic-3d-60s-20261104/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4",
+      "http_status": 200,
+      "downloaded_bytes": 31812898,
+      "sha256": "3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb",
+      "matches_original": true,
+      "tls_verified": true,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "60.000000",
+            "nb_frames": "1800",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "duration": "60.000000",
+            "nb_frames": "2814"
+          }
+        ],
+        "format": {
+          "duration": "60.000000",
+          "size": "31812898"
+        }
+      }
+    },
+    {
+      "url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/390fb8e8b09670905167895165a3e10178b77c48/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4",
+      "effective_url": "https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/390fb8e8b09670905167895165a3e10178b77c48/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4",
+      "http_status": 200,
+      "downloaded_bytes": 31812898,
+      "sha256": "3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb",
+      "matches_original": true,
+      "tls_verified": true,
+      "ffprobe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "width": 1080,
+            "height": 1920,
+            "r_frame_rate": "30/1",
+            "duration": "60.000000",
+            "nb_frames": "1800",
+            "side_data_list": [
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "r_frame_rate": "0/0",
+            "duration": "60.000000",
+            "nb_frames": "2814"
+          }
+        ],
+        "format": {
+          "duration": "60.000000",
+          "size": "31812898"
+        }
+      }
+    }
+  ],
+  "unchanged_other_refs": [
+    "dcb49ddaa3a97165202208395c45fc05ae283860\trefs/heads/codex/etqan-cinematic-3d-60s",
+    "8460cce6be53059e24087676930efcef06683342\trefs/heads/delivery-etqan-riyadh-60s-final-20261104",
+    "567187d949ff260176b68531fd21057eacf0686e\trefs/heads/main"
+  ]
+}

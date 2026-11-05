@@ -219,5 +219,7 @@
     "currentTime": 46.562032,
     "readyState": 4,
     "error": null
-  }
+  },
+  "source_fingerprint_sha256": "b113ea6fc103082cea829e6b28ff1cf08ee5cbc218b5a3a729402be7fb41e45a",
+  "render_log_shader_errors": []
 }

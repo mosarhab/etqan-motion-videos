@@ -36,6 +36,14 @@
 
 فُحصت بيانات 21,875 ملفًا سابقًا. لم يتغيّر أو يُحذف أي منها. التعديلات المؤلفة محصورة بالمشروع الجديد، ولا تُستخدم المشاريع السابقة كاعتماديات. راجع [التحقق الآلي](render-proof.json) و[CREDITS.md](../CREDITS.md) للمصادر والتراخيص.
 
-## التسليم
+## التسليم عبر GitHub
 
-جارٍ التحقق من التنزيل العام عبر HTTPS. لا يُعد التسليم الخارجي مكتملًا حتى يتم رفع الفرع وتنزيل MP4 ومطابقة بصمته. سيُضاف إثبات التنزيل إلى هذا التقرير بعد الاختبار الفعلي.
+**تم التحقق الفعلي من التنزيل العام عبر HTTPS** بتاريخ 2026-11-05T05:05:22.934421+03:00 بتوقيت الرياض. نُزّل الملف كاملًا من الرابطين أدناه دون تسجيل دخول. أعاد كلاهما HTTP 200، وحجم 31,812,898 بايت، وبصمة SHA-256 مطابقة للملف الأصلي: `3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb`.
+
+- [تنزيل MP4 من GitHub](https://github.com/mosarhab/etqan-motion-videos/raw/refs/heads/delivery-etqan-cinematic-3d-60s-20261104/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4)
+- [تنزيل مباشر ثابت مرتبط بإصدار الملف](https://raw.githubusercontent.com/mosarhab/etqan-motion-videos/390fb8e8b09670905167895165a3e10178b77c48/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4)
+- [المصدر الكامل على الفرع المستقل](https://github.com/mosarhab/etqan-motion-videos/tree/delivery-etqan-cinematic-3d-60s-20261104/projects/etqan-cinematic-3d-60s)
+- [إثبات التنزيل القابل للفحص](github-download-verification.json)
+- [قائمة الملفات الدقيقة](file-manifest.json)
+
+إصدار الفيديو: `390fb8e8b09670905167895165a3e10178b77c48`. حُفظ الملف الأصلي دون ضغط إضافي أو إعادة رندر. رُفعت المصادر والأصول والفيديو والتحقق على الفرع `delivery-etqan-cinematic-3d-60s-20261104`. لم يتغير `main`، ولم تُمس مشاريع أو فيديوهات أو فروع سابقة، بما فيها الفرع الآخر `codex/etqan-cinematic-3d-60s`. لم يُنشر موقع ويب. روابط التسليم عامة وتعمل خارج بيئة العمل المحلية.

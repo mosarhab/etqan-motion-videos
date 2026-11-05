@@ -35,16 +35,22 @@
       "sha256": "3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb"
     },
     {
+      "path": "projects/etqan-cinematic-3d-60s/out/github-download-verification.json",
+      "bytes": 3172,
+      "git_blob_sha": "70281fd61f04afe144894deb70391c50eab4f579",
+      "sha256": "eb9dff4109f4fc9007fed09e935b6457ad0d126e8eee2679da8963a6cee4a0e2"
+    },
+    {
       "path": "projects/etqan-cinematic-3d-60s/out/render-proof.json",
-      "bytes": 6225,
-      "git_blob_sha": "8bb87cc0dcbbd7724efef09655fe8cb80aa54622",
-      "sha256": "925154c2230a8dc1a48a05248c92a9a4a3368c8f4dbcabb5cf222762955a2c74"
+      "bytes": 6358,
+      "git_blob_sha": "66b5e2f210f9816a565935364ca16a9b46a3bb4e",
+      "sha256": "3890769ad8c12fe176683a43e1bf984a3da0224321f1439b2b2d5f3c40f1e269"
     },
     {
       "path": "projects/etqan-cinematic-3d-60s/out/verification-report.md",
-      "bytes": 5963,
-      "git_blob_sha": "bd3d0833c38aebcdfd01e8844162fd482445b703",
-      "sha256": "f05eacb795422a29d5cd77b461fbd66b922615a47b251f2fb3da587567421eea"
+      "bytes": 7476,
+      "git_blob_sha": "31fda7d89ebebd588093bd0f2e0eb693f7062740",
+      "sha256": "d4824bcdfa6901fe013b1c521b712a8e26afef2884b1a34e6f35cfdc759a9b06"
     },
     {
       "path": "projects/etqan-cinematic-3d-60s/package-lock.json",
@@ -234,5 +240,8 @@
     }
   ],
   "manifest_path": "projects/etqan-cinematic-3d-60s/out/file-manifest.json",
-  "download_receipt_path": "projects/etqan-cinematic-3d-60s/out/github-download-verification.json"
+  "download_receipt_path": "projects/etqan-cinematic-3d-60s/out/github-download-verification.json",
+  "media_commit": "390fb8e8b09670905167895165a3e10178b77c48",
+  "public_https_download_verified": true,
+  "total_project_files_including_manifest": 40
 }
