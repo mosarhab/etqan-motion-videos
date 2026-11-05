@@ -1,0 +1,151 @@
+{
+  "representative": [
+    [
+      45,
+      "Earth"
+    ],
+    [
+      102,
+      "Saudi approach"
+    ],
+    [
+      160,
+      "Riyadh map"
+    ],
+    [
+      205,
+      "Map endpoint"
+    ],
+    [
+      255,
+      "Bore drilling"
+    ],
+    [
+      292,
+      "Sample extraction"
+    ],
+    [
+      365,
+      "Soil classification"
+    ],
+    [
+      445,
+      "Gradation"
+    ],
+    [
+      535,
+      "Field density"
+    ],
+    [
+      635,
+      "Resistivity"
+    ],
+    [
+      730,
+      "Slump lift"
+    ],
+    [
+      780,
+      "Slump settling"
+    ],
+    [
+      850,
+      "Concrete temperature"
+    ],
+    [
+      970,
+      "Compression"
+    ],
+    [
+      1075,
+      "Ultrasonic UPV"
+    ],
+    [
+      1165,
+      "Concrete core"
+    ],
+    [
+      1280,
+      "Asphalt composition"
+    ],
+    [
+      1400,
+      "Marshall"
+    ],
+    [
+      1520,
+      "Binder study"
+    ],
+    [
+      1610,
+      "Materials together"
+    ],
+    [
+      1665,
+      "Closing handoff"
+    ],
+    [
+      1725,
+      "Closing contacts"
+    ],
+    [
+      1785,
+      "Final frame area"
+    ]
+  ],
+  "transition_frames": [
+    213,
+    333,
+    483,
+    588,
+    693,
+    903,
+    1023,
+    1113,
+    1203,
+    1323,
+    1443,
+    1563,
+    1653
+  ],
+  "all_exported_frames": [
+    0,
+    45,
+    102,
+    160,
+    205,
+    213,
+    255,
+    292,
+    333,
+    365,
+    445,
+    483,
+    535,
+    588,
+    635,
+    693,
+    730,
+    780,
+    850,
+    903,
+    970,
+    1023,
+    1075,
+    1113,
+    1165,
+    1203,
+    1280,
+    1323,
+    1400,
+    1443,
+    1520,
+    1563,
+    1610,
+    1653,
+    1665,
+    1725,
+    1785,
+    1799
+  ]
+}

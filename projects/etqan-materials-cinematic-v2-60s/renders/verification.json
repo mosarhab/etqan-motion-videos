@@ -1,0 +1,27 @@
+{
+  "video": "etqan-cinematic-3d-60s.mp4",
+  "verified": true,
+  "sha256": "8e7d1761fe8e74a3217b245badbbfbf6038f59e3130821bfe26a13bad5d6c624",
+  "bytes": 26094592,
+  "duration_seconds": 60.0,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": "30/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_peak_dbfs": -5.339330877278414,
+  "audio_rms_dbfs": -18.12444289079981,
+  "full_decode": "passed",
+  "audio_matches_original_score_correlation": 0.9998146864620227,
+  "original_logo_source_identical": true,
+  "logo_rendering": "User-authorized white lettering with original gold, no background panel",
+  "location": "Animated Earth to Riyadh city; Al Qadisiyah address supplied by user. City marker only; exact laboratory pin not independently verified.",
+  "visual_style": "Procedural cinematic 3D; stylized, not photorealistic footage"
+}

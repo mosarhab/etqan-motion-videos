@@ -1,0 +1,107 @@
+{
+  "fullPlaybackEnded": true,
+  "fullPlaybackRate": 2,
+  "finalTime": 60,
+  "duration": 60,
+  "width": 1080,
+  "height": 1920,
+  "playbackAdvanced": 1.559301,
+  "seeks": [
+    {
+      "requested": 1.5,
+      "actual": 1.5,
+      "readyState": 4
+    },
+    {
+      "requested": 3.4,
+      "actual": 3.4,
+      "readyState": 4
+    },
+    {
+      "requested": 6.5,
+      "actual": 6.5,
+      "readyState": 4
+    },
+    {
+      "requested": 8.5,
+      "actual": 8.5,
+      "readyState": 4
+    },
+    {
+      "requested": 10,
+      "actual": 10,
+      "readyState": 4
+    },
+    {
+      "requested": 12.5,
+      "actual": 12.5,
+      "readyState": 4
+    },
+    {
+      "requested": 15,
+      "actual": 15,
+      "readyState": 4
+    },
+    {
+      "requested": 18,
+      "actual": 18,
+      "readyState": 4
+    },
+    {
+      "requested": 21,
+      "actual": 21,
+      "readyState": 4
+    },
+    {
+      "requested": 25,
+      "actual": 25,
+      "readyState": 4
+    },
+    {
+      "requested": 28,
+      "actual": 28,
+      "readyState": 4
+    },
+    {
+      "requested": 32,
+      "actual": 32,
+      "readyState": 4
+    },
+    {
+      "requested": 35.5,
+      "actual": 35.5,
+      "readyState": 4
+    },
+    {
+      "requested": 38.5,
+      "actual": 38.5,
+      "readyState": 4
+    },
+    {
+      "requested": 42,
+      "actual": 42,
+      "readyState": 4
+    },
+    {
+      "requested": 46,
+      "actual": 46,
+      "readyState": 4
+    },
+    {
+      "requested": 50,
+      "actual": 50,
+      "readyState": 4
+    },
+    {
+      "requested": 53.5,
+      "actual": 53.5,
+      "readyState": 4
+    },
+    {
+      "requested": 58.5,
+      "actual": 58.5,
+      "readyState": 4
+    }
+  ],
+  "error": null
+}
