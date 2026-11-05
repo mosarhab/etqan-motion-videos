@@ -4,6 +4,8 @@ An independent Remotion/Three.js production, created in `projects/etqan-cinemati
 
 ## Output
 
+[Download MP4 from GitHub](https://github.com/mosarhab/etqan-motion-videos/raw/refs/heads/delivery-etqan-cinematic-3d-60s-20261104/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4) · [Verification report](out/verification-report.md)
+
 `out/etqan-cinematic-3d-60s.mp4` — 1080×1920, portrait, 30 FPS, exactly 1800 frames / 60 seconds, H.264 with AAC stereo. Final verification and public download evidence are recorded in `out/verification-report.md`, `out/render-proof.json` and `out/github-download-verification.json` once complete.
 
 The delivery branch is `delivery-etqan-cinematic-3d-60s-20261104`. Main is not merged and no public website is deployed.

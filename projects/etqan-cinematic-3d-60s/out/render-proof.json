@@ -1,0 +1,223 @@
+{
+  "status": "rendered_and_decoded",
+  "project": "projects/etqan-cinematic-3d-60s/",
+  "file": "out/etqan-cinematic-3d-60s.mp4",
+  "bytes": 31812898,
+  "sha256": "3ec41e90eec35fa3cbb8ab5e53ec5cdf5b72a1d9368f5100a9df6e6704b2c6cb",
+  "video_codec": "h264",
+  "profile": "High",
+  "pixel_format": "yuv420p",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": "30/1",
+  "frames": 1800,
+  "duration_seconds": 60.0,
+  "container_duration_seconds": 60.0,
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "audio_volume_check": [
+    "[Parsed_volumedetect_0 @ 0x7f41e4001d40] mean_volume: -17.7 dB",
+    "[Parsed_volumedetect_0 @ 0x7f41e4001d40] max_volume: -2.8 dB"
+  ],
+  "full_decode_errors": "",
+  "logo_blob_sha": "731714d1fbf04b75278aa277dc697f498af9881d",
+  "logo_unchanged": true,
+  "brand_palette": {
+    "navy": "#1D305B",
+    "yellow": "#F6C717"
+  },
+  "render_method": "Native frame-driven Three.js meshes inside Remotion ThreeCanvas; PBR and generated reflection environment; no photos or static scene images",
+  "three_pass_resolution": [
+    720,
+    1280
+  ],
+  "output_typography_and_logo_resolution": [
+    1080,
+    1920
+  ],
+  "frame_interpolation": false,
+  "representative_decoded_frames": [
+    90,
+    420,
+    650,
+    900,
+    1190,
+    1460,
+    1610,
+    1650,
+    1690,
+    1765,
+    1799
+  ],
+  "location_anchor_source": "Coordinates explicitly supplied by the user earlier in this thread for the same Maps reference",
+  "location_anchor": {
+    "latitude": 24.829475,
+    "longitude": 46.828527
+  },
+  "location_short_link_independently_verified": false,
+  "abstract_city_is_surveyed_streets": false,
+  "preservation": {
+    "preexisting_files_checked": 21875,
+    "modified_preexisting_files": [],
+    "missing_preexisting_files": [],
+    "passed": true,
+    "scope": "All authored changes confined to projects/etqan-cinematic-3d-60s/; Git metadata excluded from this file-content preservation check."
+  },
+  "ffprobe": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1080,
+        "coded_height": 1920,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 921600,
+        "duration": "60.000000",
+        "bit_rate": "4035621",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "1800",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        },
+        "side_data_list": [
+          {
+            "side_data_type": "ICC Profile"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 2880000,
+        "duration": "60.000000",
+        "bit_rate": "196975",
+        "nb_frames": "2814",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/etqan-motion-videos/projects/etqan-cinematic-3d-60s/out/etqan-cinematic-3d-60s.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "60.000000",
+      "size": "31812898",
+      "bit_rate": "4241719",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "browser_playback": {
+    "duration": 60,
+    "width": 1080,
+    "height": 1920,
+    "currentTime": 46.562032,
+    "readyState": 4,
+    "error": null
+  }
+}
