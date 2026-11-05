@@ -4,7 +4,7 @@ A new, independent portrait film following the approved material-led concept, wi
 
 ## Delivery
 
-`renders/etqan-materials-cinematic-60s.mp4`
+`renders/etqan-materials-cinematic-60s-branded.mp4`
 
 60.000 seconds · 1,800 frames · 1080 × 1920 · 30 fps · H.264 High · yuv420p / BT.709 · stereo AAC · MP4 fast-start.
 
@@ -44,9 +44,9 @@ python3 scripts/make_audio.py
 npm run studio
 npm run check
 npm run render
-python3 scripts/verify.py
-python3 scripts/export_review.py
-node scripts/check-playback.mjs
+python3 scripts/verify-branded.py
+python3 scripts/export_review_branded.py
+node scripts/check-playback-branded.mjs
 ```
 
 The production renderer uses Chromium at `/usr/bin/chromium` with Mesa/ANGLE EGL and source-hashed, resumable sixty-frame checkpoints. It joins and converts the final video to limited-range BT.709 and encodes the soundtrack once. Adjust the executable/backend in `scripts/render-checkpoints.mjs` for other systems, or use `render:direct` with suitable CLI options. The composition and all substantial shots are registered independently in Remotion Studio.
@@ -64,3 +64,9 @@ The user's monthly workbook is not part of the project. No client names, records
 ## Assets and verification
 
 See `ASSETS.md` for provenance. Final encode, playback and visual-review evidence is stored under `renders/` after verification.
+
+## Continuous branding revision
+
+The original logo appears on a compact ivory backing at x=80, y=100, away from titles and specimen annotations. The unchanged 2048 × 552 PNG is reduced by exactly eight to 256 × 69 pixels, preserving its aspect ratio and colors. A sixteen-pixel margin gives a 288 × 101 brand mark. It is fully visible from the opening frame through 57.5 seconds and fades out by 58 seconds as the large authentic closing logo takes over. Branding is therefore present throughout all shots.
+
+`src/BrandMark.tsx` is included in the master Remotion composition. `npm run brand` also produces the identical placement and handoff efficiently from the already verified unbranded film. The prior MP4 and its evidence are retained; branded evidence is in `renders/branded/`. The underlying camera motion, timing and soundtrack are preserved.

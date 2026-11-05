@@ -172,7 +172,7 @@ if (first === 0 && last === 1799) {
       "60",
       "-movflags",
       "+faststart",
-      path.join(root, "renders/etqan-materials-cinematic-60s.mp4"),
+      path.join(root, "renders/etqan-materials-cinematic-60s-branded.mp4"),
     ],
     { stdio: "inherit" },
   );

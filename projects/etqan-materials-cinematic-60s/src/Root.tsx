@@ -22,6 +22,7 @@ import {
 } from "./scenes/Asphalt";
 import { Overview } from "./scenes/Overview";
 import { Closing, Header } from "./Type";
+import { BrandMark } from "./BrandMark";
 const Category = ({ title }: { title: string }) => {
   const t = useCurrentFrame() / 30;
   return <Header title={title} t={t} duration={16} />;
@@ -177,6 +178,7 @@ export function Film() {
       >
         <Category title="الأسفلت" />
       </Sequence>
+      <BrandMark />
       <Audio src={staticFile("etqan-original-score.wav")} premountFor={30} />
     </AbsoluteFill>
   );

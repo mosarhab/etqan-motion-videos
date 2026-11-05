@@ -6,7 +6,9 @@
     "studio": "remotion studio src/index.ts --no-open",
     "render": "LIBGL_ALWAYS_SOFTWARE=1 EGL_PLATFORM=surfaceless node scripts/render-checkpoints.mjs",
     "check": "tsc --noEmit",
-    "render:direct": "remotion render src/index.ts EtqanMaterials60 renders/etqan-materials-cinematic-60s.mp4 --codec h264 --crf 17 --pixel-format yuv420p --concurrency 1 --gl angle-egl --browser-executable /usr/bin/chromium"
+    "render:direct": "remotion render src/index.ts EtqanMaterials60 renders/etqan-materials-cinematic-60s-branded.mp4 --codec h264 --crf 17 --pixel-format yuv420p --concurrency 1 --gl angle-egl --browser-executable /usr/bin/chromium",
+    "brand": "bash scripts/add-brand-mark.sh",
+    "verify:branded": "python3 scripts/verify-branded.py"
   },
   "dependencies": {
     "@react-three/fiber": "9.4.0",
