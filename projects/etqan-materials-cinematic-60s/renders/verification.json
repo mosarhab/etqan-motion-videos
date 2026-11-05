@@ -1,0 +1,23 @@
+{
+  "video": "etqan-materials-cinematic-60s.mp4",
+  "verified": true,
+  "sha256": "f7cdca28f176b2c0d5d466920a06db36d9296e3b6c7cee66d1e7c8178064fa44",
+  "bytes": 26461867,
+  "duration_seconds": 60.0,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": "30/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 2,
+  "full_decode": "passed",
+  "audio_matches_original_score_correlation": 0.9998146864620227,
+  "original_logo_identical": true,
+  "location": "Riyadh opening only; no exact laboratory location or pin shown",
+  "visual_style": "Procedural cinematic 3D; stylized, not photorealistic footage"
+}
