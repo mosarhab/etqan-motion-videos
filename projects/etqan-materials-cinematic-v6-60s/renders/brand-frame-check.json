@@ -1,0 +1,46 @@
+{
+  "frames_checked": 1800,
+  "header_maximum_mean_gray_difference_from_frame_zero": 1.2859982000899954,
+  "footer_maximum_mean_gray_difference_from_frame_zero": 0.8574483775811209,
+  "regions": {
+    "corporate_logo": {
+      "reference_visible_pixels": 2726,
+      "minimum_visible_pixels": 2701,
+      "present_in_all_1800_frames": true
+    },
+    "company_name": {
+      "reference_visible_pixels": 642,
+      "minimum_visible_pixels": 633,
+      "present_in_all_1800_frames": true
+    },
+    "company_service_line": {
+      "reference_visible_pixels": 110,
+      "minimum_visible_pixels": 106,
+      "present_in_all_1800_frames": true
+    },
+    "email": {
+      "reference_visible_pixels": 266,
+      "minimum_visible_pixels": 265,
+      "present_in_all_1800_frames": true
+    },
+    "address": {
+      "reference_visible_pixels": 199,
+      "minimum_visible_pixels": 189,
+      "present_in_all_1800_frames": true
+    },
+    "phone": {
+      "reference_visible_pixels": 383,
+      "minimum_visible_pixels": 379,
+      "present_in_all_1800_frames": true
+    },
+    "creator_credit": {
+      "reference_visible_pixels": 140,
+      "minimum_visible_pixels": 138,
+      "present_in_all_1800_frames": true
+    }
+  },
+  "single_phone": "0535588975",
+  "extra_numbers_removed": true,
+  "passed": true,
+  "note": "Encoded-frame visibility check using measured browser layout; read with manual Arabic frame review. Header backdrop intentionally has a slight transparent gradient."
+}

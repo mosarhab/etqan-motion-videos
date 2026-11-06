@@ -1,0 +1,163 @@
+{
+  "representative": [
+    [
+      35,
+      "Earth"
+    ],
+    [
+      95,
+      "Map approach"
+    ],
+    [
+      132,
+      "Riyadh map"
+    ],
+    [
+      210,
+      "Borehole"
+    ],
+    [
+      318,
+      "Soil classification"
+    ],
+    [
+      393,
+      "Both soil labels"
+    ],
+    [
+      419,
+      "Both labels held"
+    ],
+    [
+      445,
+      "Proctor lift"
+    ],
+    [
+      467,
+      "Proctor contact"
+    ],
+    [
+      492,
+      "Second Proctor stroke"
+    ],
+    [
+      512,
+      "Proctor compacting"
+    ],
+    [
+      582,
+      "Field density"
+    ],
+    [
+      688,
+      "Soil resistance"
+    ],
+    [
+      795,
+      "Slump"
+    ],
+    [
+      900,
+      "Concrete temperature"
+    ],
+    [
+      1015,
+      "Compression"
+    ],
+    [
+      1125,
+      "Ultrasonic UPV"
+    ],
+    [
+      1200,
+      "Concrete core"
+    ],
+    [
+      1300,
+      "Asphalt composition"
+    ],
+    [
+      1425,
+      "Marshall"
+    ],
+    [
+      1545,
+      "Binder study"
+    ],
+    [
+      1625,
+      "Materials together"
+    ],
+    [
+      1665,
+      "Closing handoff"
+    ],
+    [
+      1755,
+      "Closing contacts"
+    ],
+    [
+      1799,
+      "Final frame"
+    ]
+  ],
+  "transition_frames": [
+    153,
+    273,
+    423,
+    528,
+    633,
+    738,
+    948,
+    1068,
+    1158,
+    1248,
+    1353,
+    1473,
+    1593,
+    1653
+  ],
+  "all_exported_frames": [
+    0,
+    35,
+    95,
+    132,
+    153,
+    210,
+    273,
+    318,
+    333,
+    393,
+    419,
+    423,
+    445,
+    467,
+    492,
+    512,
+    528,
+    582,
+    633,
+    688,
+    738,
+    795,
+    900,
+    948,
+    1015,
+    1068,
+    1125,
+    1158,
+    1200,
+    1248,
+    1300,
+    1353,
+    1425,
+    1473,
+    1545,
+    1593,
+    1625,
+    1653,
+    1665,
+    1755,
+    1799
+  ]
+}

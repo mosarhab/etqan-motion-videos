@@ -1,0 +1,134 @@
+{
+  "passed": true,
+  "note": "Visible change in the scene area; exclude fixed logo, header and contact footer. Read with source and manual frame review.",
+  "shots": [
+    {
+      "shot": "Earth",
+      "frames": [
+        20,
+        50
+      ],
+      "scene_area_mean_absolute_difference_0_255": 32.9278
+    },
+    {
+      "shot": "Riyadh map",
+      "frames": [
+        90,
+        140
+      ],
+      "scene_area_mean_absolute_difference_0_255": 18.3908
+    },
+    {
+      "shot": "Borehole and sample",
+      "frames": [
+        170,
+        250
+      ],
+      "scene_area_mean_absolute_difference_0_255": 6.8574
+    },
+    {
+      "shot": "Soil specimen",
+      "frames": [
+        305,
+        405
+      ],
+      "scene_area_mean_absolute_difference_0_255": 23.2085
+    },
+    {
+      "shot": "Proctor rammer",
+      "frames": [
+        444,
+        465
+      ],
+      "scene_area_mean_absolute_difference_0_255": 9.9702
+    },
+    {
+      "shot": "Field density",
+      "frames": [
+        545,
+        605
+      ],
+      "scene_area_mean_absolute_difference_0_255": 10.4478
+    },
+    {
+      "shot": "Soil resistance",
+      "frames": [
+        650,
+        710
+      ],
+      "scene_area_mean_absolute_difference_0_255": 9.804
+    },
+    {
+      "shot": "Slump cone",
+      "frames": [
+        765,
+        825
+      ],
+      "scene_area_mean_absolute_difference_0_255": 15.9026
+    },
+    {
+      "shot": "Temperature probe",
+      "frames": [
+        855,
+        925
+      ],
+      "scene_area_mean_absolute_difference_0_255": 11.4273
+    },
+    {
+      "shot": "Compression",
+      "frames": [
+        970,
+        1040
+      ],
+      "scene_area_mean_absolute_difference_0_255": 18.6623
+    },
+    {
+      "shot": "Ultrasonic",
+      "frames": [
+        1085,
+        1145
+      ],
+      "scene_area_mean_absolute_difference_0_255": 9.8896
+    },
+    {
+      "shot": "Core extraction",
+      "frames": [
+        1170,
+        1230
+      ],
+      "scene_area_mean_absolute_difference_0_255": 18.1982
+    },
+    {
+      "shot": "Asphalt formation",
+      "frames": [
+        1270,
+        1330
+      ],
+      "scene_area_mean_absolute_difference_0_255": 20.1876
+    },
+    {
+      "shot": "Marshall",
+      "frames": [
+        1370,
+        1450
+      ],
+      "scene_area_mean_absolute_difference_0_255": 16.4881
+    },
+    {
+      "shot": "Binder composition",
+      "frames": [
+        1490,
+        1570
+      ],
+      "scene_area_mean_absolute_difference_0_255": 17.3963
+    },
+    {
+      "shot": "Materials together",
+      "frames": [
+        1600,
+        1640
+      ],
+      "scene_area_mean_absolute_difference_0_255": 7.9978
+    }
+  ]
+}
