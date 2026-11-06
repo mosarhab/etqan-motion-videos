@@ -1,0 +1,134 @@
+{
+  "passed": true,
+  "note": "Visible change in the scene area; exclude fixed logo, header and contact footer. Read with source and manual frame review.",
+  "shots": [
+    {
+      "shot": "Earth",
+      "frames": [
+        30,
+        78
+      ],
+      "scene_area_mean_absolute_difference_0_255": 24.0035
+    },
+    {
+      "shot": "Riyadh map",
+      "frames": [
+        138,
+        207
+      ],
+      "scene_area_mean_absolute_difference_0_255": 23.3755
+    },
+    {
+      "shot": "borehole",
+      "frames": [
+        249,
+        317
+      ],
+      "scene_area_mean_absolute_difference_0_255": 5.3274
+    },
+    {
+      "shot": "soil",
+      "frames": [
+        386,
+        494
+      ],
+      "scene_area_mean_absolute_difference_0_255": 17.8841
+    },
+    {
+      "shot": "proctor",
+      "frames": [
+        558,
+        604
+      ],
+      "scene_area_mean_absolute_difference_0_255": 9.3255
+    },
+    {
+      "shot": "density",
+      "frames": [
+        649,
+        717
+      ],
+      "scene_area_mean_absolute_difference_0_255": 7.4357
+    },
+    {
+      "shot": "resistance",
+      "frames": [
+        769,
+        829
+      ],
+      "scene_area_mean_absolute_difference_0_255": 7.8277
+    },
+    {
+      "shot": "compression",
+      "frames": [
+        1033,
+        1076
+      ],
+      "scene_area_mean_absolute_difference_0_255": 16.3008
+    },
+    {
+      "shot": "ultrasonic",
+      "frames": [
+        1114,
+        1167
+      ],
+      "scene_area_mean_absolute_difference_0_255": 6.0866
+    },
+    {
+      "shot": "core",
+      "frames": [
+        1212,
+        1272
+      ],
+      "scene_area_mean_absolute_difference_0_255": 16.445
+    },
+    {
+      "shot": "asphalt",
+      "frames": [
+        1318,
+        1376
+      ],
+      "scene_area_mean_absolute_difference_0_255": 15.1525
+    },
+    {
+      "shot": "marshall",
+      "frames": [
+        1417,
+        1465
+      ],
+      "scene_area_mean_absolute_difference_0_255": 15.3872
+    },
+    {
+      "shot": "binder",
+      "frames": [
+        1503,
+        1552
+      ],
+      "scene_area_mean_absolute_difference_0_255": 12.2206
+    },
+    {
+      "shot": "overview",
+      "frames": [
+        1596,
+        1660
+      ],
+      "scene_area_mean_absolute_difference_0_255": 11.0693
+    },
+    {
+      "shot": "Slump",
+      "frames": [
+        880,
+        930
+      ],
+      "scene_area_mean_absolute_difference_0_255": 13.0128
+    },
+    {
+      "shot": "Temperature",
+      "frames": [
+        960,
+        1006
+      ],
+      "scene_area_mean_absolute_difference_0_255": 6.8795
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fps": 30,
+  "durationFrames": 1800,
+  "alignment": "Arabic speech recognition segment anchors, quiet-pause analysis and scene review; approximate phrase-level alignment, not word-perfect lip sync.",
+  "scenes": {
+    "opening": {
+      "startFrame": 0,
+      "durationFrames": 224,
+      "sourceVoiceBoundarySeconds": 0
+    },
+    "borehole": {
+      "startFrame": 224,
+      "durationFrames": 123,
+      "sourceVoiceBoundarySeconds": 8.05
+    },
+    "soil": {
+      "startFrame": 347,
+      "durationFrames": 194,
+      "sourceVoiceBoundarySeconds": 12.48
+    },
+    "proctor": {
+      "startFrame": 541,
+      "durationFrames": 83,
+      "sourceVoiceBoundarySeconds": 19.42
+    },
+    "density": {
+      "startFrame": 624,
+      "durationFrames": 123,
+      "sourceVoiceBoundarySeconds": 22.44
+    },
+    "resistance": {
+      "startFrame": 747,
+      "durationFrames": 108,
+      "sourceVoiceBoundarySeconds": 26.88
+    },
+    "fresh": {
+      "startFrame": 855,
+      "durationFrames": 162,
+      "sourceVoiceBoundarySeconds": 30.8
+    },
+    "compression": {
+      "startFrame": 1017,
+      "durationFrames": 78,
+      "sourceVoiceBoundarySeconds": 36.58
+    },
+    "ultrasonic": {
+      "startFrame": 1095,
+      "durationFrames": 95,
+      "sourceVoiceBoundarySeconds": 39.37
+    },
+    "core": {
+      "startFrame": 1190,
+      "durationFrames": 108,
+      "sourceVoiceBoundarySeconds": 42.8
+    },
+    "asphalt": {
+      "startFrame": 1298,
+      "durationFrames": 102,
+      "sourceVoiceBoundarySeconds": 46.69
+    },
+    "marshall": {
+      "startFrame": 1400,
+      "durationFrames": 85,
+      "sourceVoiceBoundarySeconds": 50.4
+    },
+    "binder": {
+      "startFrame": 1485,
+      "durationFrames": 88,
+      "sourceVoiceBoundarySeconds": 53.4
+    },
+    "overview": {
+      "startFrame": 1573,
+      "durationFrames": 114,
+      "sourceVoiceBoundarySeconds": 56.6
+    },
+    "closing": {
+      "startFrame": 1687,
+      "durationFrames": 113,
+      "sourceVoiceBoundarySeconds": 60.79
+    }
+  },
+  "freshTemperatureStartFrame": 947
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "note": "Encoded-frame visibility proxy, read with manual review of the actual Arabic titles. Classification remains visible after gradation appears and through the last frame before the Proctor transition.",
+  "reference_frame": 405,
+  "reference_classification_bright_pixels": 2171,
+  "checked": [
+    {
+      "frame": 483,
+      "classification_bright_pixels": 2184,
+      "gradation_bright_pixels": 2315
+    },
+    {
+      "frame": 540,
+      "classification_bright_pixels": 2190,
+      "gradation_bright_pixels": 2324
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "source_voice_identical_to_user_upload_sha256": "dbac953004c0bb44fa1464477528c35be158418d07d7c68ea950c8718a54d505",
+  "quiet_centers_removed_count": 10,
+  "quiet_center_maximum_peak_dbfs": -43.402636505598,
+  "spoken_words_intentionally_removed": false,
+  "pitch_preserving_tempo_factor": 1.0637401459241864,
+  "encoded_mix_to_fitted_voice_correlation": 0.9897938352642306,
+  "speech_rms_dbfs_per_channel": -19.35602691548093,
+  "background_music_rms_dbfs_per_channel": -36.17415126360872,
+  "speech_above_music_rms_db": 16.81812434812779,
+  "encoded_peak_dbfs": -4.527100107716889,
+  "closing_speech_energy_present_in_last_second": true,
+  "last_100ms_of_isolated_voice_is_quiet": true,
+  "note": "Signal verification and ASR-assisted phrase timing; this is not a subjective listening assessment. The supplied voice is fitted using low-energy pauses and pitch-preserving time stretch, with no re-synthesis."
+}

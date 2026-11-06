@@ -1,0 +1,8 @@
+{
+  "baseline_commit": "8da730323e08bca0bafa9b9dc2d337d00c045352",
+  "all_prior_tracked_projects_diff": "unchanged",
+  "previous_movie_sha256": {
+    "projects/etqan-materials-cinematic-v7-60s/renders/etqan-cinematic-3d-60s.mp4": "0f29f3de99fbeaf9a369c89b87386b48222d6492aa92a8a457a6970ee6e0e414",
+    "projects/etqan-materials-cinematic-v6-60s/renders/etqan-cinematic-3d-60s.mp4": "8c3a58584e5d7ea0dc4baee2349e05e13ae32cd555c81e617b800464f2104fcf"
+  }
+}

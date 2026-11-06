@@ -1,0 +1,66 @@
+{
+  "source_sha256": "dbac953004c0bb44fa1464477528c35be158418d07d7c68ea950c8718a54d505",
+  "source_seconds": 64.6791875,
+  "quiet_pause_threshold_dbfs": -38,
+  "pause_centers_removed_seconds": [
+    [
+      2.509,
+      2.612
+    ],
+    [
+      7.928,
+      8.118
+    ],
+    [
+      19.344,
+      19.49
+    ],
+    [
+      26.816,
+      26.903
+    ],
+    [
+      30.731,
+      30.847
+    ],
+    [
+      39.325,
+      39.413
+    ],
+    [
+      46.623,
+      46.765
+    ],
+    [
+      56.516,
+      56.673
+    ],
+    [
+      60.73,
+      60.856
+    ],
+    [
+      63.472,
+      63.576
+    ]
+  ],
+  "pause_seconds_removed": 1.259,
+  "speech_words_removed": false,
+  "pitch_preserved": true,
+  "tempo_factor": 1.0637401459241864,
+  "lead_seconds": 0.12,
+  "fitted_speech_window_seconds": 59.62,
+  "output_duration_seconds": 60,
+  "normalization_first_pass": {
+    "input_i": "-26.38",
+    "input_tp": "-8.94",
+    "input_lra": "1.50",
+    "input_thresh": "-36.50",
+    "output_i": "-17.27",
+    "output_tp": "-2.00",
+    "output_lra": "1.40",
+    "output_thresh": "-27.38",
+    "normalization_type": "dynamic",
+    "target_offset": "0.27"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+work/
+*.log
+__pycache__/
+# Private local voice assets; only the authorized final film is published.
+public/etqan-voice-original.mp3
+public/etqan-voice-mix.wav
