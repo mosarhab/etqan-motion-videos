@@ -1,0 +1,29 @@
+{
+  "method": "Constant lower-third and user-authorized creator logo composited over the previously verified procedural 3D film; original audio copied",
+  "base_video_relative": "../etqan-materials-cinematic-v3-60s/renders/etqan-cinematic-3d-60s.mp4",
+  "base_video_sha256": "7a4d1118f99acc5cd714c3da8037f5cb569e3950fef58a55d94038044ba040e7",
+  "source_sha256": "731e784b73df7ba4a2a985ee0a54e66108939379df8fcf94c2be7ab45eab0948",
+  "overlay_sha256": "87b249094363dbe683b4413efc8ac07a1e409a529337c7019dcfb6dd129f4efa",
+  "creator_mask_sha256": "772ac5afad644b1c0b393418575d8f5e734adda3b0daa9da7757768c2756c55d",
+  "creator_white_png_sha256": "7f27822e7304616c6d4afaf998214488ff02a60f888477dc2cd59b7e07d9ae9b",
+  "numbers": [
+    "0535588975",
+    "0575828265",
+    "0573870072",
+    "0551603205"
+  ],
+  "contact_scope": "all 1800 frames",
+  "footer_number_boxes": {
+    "left": 220,
+    "right": 64,
+    "bottom": 32,
+    "fontSize": 38,
+    "lineHeight": 1.35,
+    "rows": 2
+  },
+  "creator_position": {
+    "left": 64,
+    "bottom": 38,
+    "width": 104
+  }
+}
