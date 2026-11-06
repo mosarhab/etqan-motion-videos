@@ -1,0 +1,29 @@
+{
+  "name": "etqan-materials-cinematic-v7-60s",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open",
+    "render": "LIBGL_ALWAYS_SOFTWARE=1 EGL_PLATFORM=surfaceless node scripts/render-checkpoints.mjs",
+    "check": "tsc --noEmit",
+    "render:direct": "remotion render src/index.ts EtqanCinematicRevision60 renders/etqan-cinematic-3d-60s.mp4 --codec h264 --crf 17 --pixel-format yuv420p --concurrency 1 --gl angle-egl --browser-executable /usr/bin/chromium",
+    "verify": "python3 scripts/verify.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.4.0",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/three": "4.0.540",
+    "@remotion/transitions": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540",
+    "three": "0.181.2"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "0.181.0",
+    "prettier": "^3.6.2",
+    "typescript": "5.9.3"
+  }
+}

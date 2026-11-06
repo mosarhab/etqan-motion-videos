@@ -1,0 +1,388 @@
+{
+  "passed": true,
+  "caption_top": 1642,
+  "footer_top": 1812,
+  "compositions": [
+    {
+      "composition": "SoilBorehole",
+      "benefits": [
+        {
+          "text": "فهم طبقات التربة وظروف التأسيس",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 547.2813585069445,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "جسات التربة",
+          "x": 65,
+          "y": 425,
+          "width": 610,
+          "height": 71.99998643663194,
+          "textWidth": 217.76557074652777,
+          "fontSize": 45,
+          "scrollWidth": 610,
+          "clientWidth": 610
+        }
+      ]
+    },
+    {
+      "composition": "SoilFormation",
+      "benefits": [
+        {
+          "text": "فهم خصائص التربة وتوزيع حبيباتها",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 522.8439670138889,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "تصنيف التربة",
+          "x": 60,
+          "y": 425,
+          "width": 430,
+          "height": 71.99998643663194,
+          "textWidth": 231.171875,
+          "fontSize": 45,
+          "scrollWidth": 430,
+          "clientWidth": 430
+        },
+        {
+          "text": "التدرج الحبيبي",
+          "x": 590,
+          "y": 425,
+          "width": 430,
+          "height": 71.99998643663194,
+          "textWidth": 246.46864149305554,
+          "fontSize": 45,
+          "scrollWidth": 430,
+          "clientWidth": 430
+        }
+      ]
+    },
+    {
+      "composition": "Proctor",
+      "benefits": [
+        {
+          "text": "تحديد ظروف الدمك المثلى",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 407.29682074652777,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "اختبار البروكتور",
+          "x": 65,
+          "y": 420,
+          "width": 500,
+          "height": 71.99998643663194,
+          "textWidth": 263.84385850694446,
+          "fontSize": 45,
+          "scrollWidth": 500,
+          "clientWidth": 500
+        }
+      ]
+    },
+    {
+      "composition": "FieldDensity",
+      "benefits": [
+        {
+          "text": "التحقق من كفاءة الدمك بالموقع",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 527.6719835069445,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "الكثافة الحقلية",
+          "x": 80,
+          "y": 430,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 285.89057074652777,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    },
+    {
+      "composition": "SoilResistivity",
+      "benefits": [
+        {
+          "text": "دعم تصميم أنظمة التأريض",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 409.79682074652777,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "مقاومة التربة",
+          "x": 80,
+          "y": 500,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 255.46875,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    },
+    {
+      "composition": "FreshConcrete",
+      "benefits": [
+        {
+          "text": "تقييم قوام الخرسانة",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 312.24989149305554,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        },
+        {
+          "text": "متابعة حرارة الخرسانة قبل الصب",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 492.34375,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "اختبار الهبوط",
+          "x": 70,
+          "y": 440,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 233.60948350694443,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        },
+        {
+          "text": "درجة حرارة الخرسانة",
+          "x": 65,
+          "y": 440,
+          "width": 600,
+          "height": 71.99998643663194,
+          "textWidth": 355.82817925347223,
+          "fontSize": 45,
+          "scrollWidth": 600,
+          "clientWidth": 600
+        }
+      ]
+    },
+    {
+      "composition": "ConcreteCompression",
+      "benefits": [
+        {
+          "text": "تقييم تحمل الخرسانة للضغط",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 437.04698350694446,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "مقاومة الضغط",
+          "x": 80,
+          "y": 440,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 292.28135850694446,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    },
+    {
+      "composition": "UltrasonicUPV",
+      "benefits": [
+        {
+          "text": "تقييم تجانس الخرسانة وجودتها الداخلية",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 601.6563585069445,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "الموجات فوق الصوتية",
+          "x": 80,
+          "y": 450,
+          "width": 540,
+          "height": 71.99998643663194,
+          "textWidth": 416.484375,
+          "fontSize": 45,
+          "scrollWidth": 540,
+          "clientWidth": 540
+        }
+      ]
+    },
+    {
+      "composition": "ConcreteCore",
+      "benefits": [
+        {
+          "text": "تقييم الخرسانة المنفذة بعينات فعلية",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 567.8439670138889,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "الكور الخرساني",
+          "x": 80,
+          "y": 450,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 276.8435329861111,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    },
+    {
+      "composition": "AsphaltFormation",
+      "benefits": [
+        {
+          "text": "فهم توزيع مكونات الخلطة",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 410.67192925347223,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "مكونات الخلطة",
+          "x": 80,
+          "y": 440,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 286.34385850694446,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    },
+    {
+      "composition": "Marshall",
+      "benefits": [
+        {
+          "text": "تقييم ثبات الخلطة تحت الأحمال",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 472.421875,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "الثبات والانسياب",
+          "x": 80,
+          "y": 440,
+          "width": 470,
+          "height": 71.99998643663194,
+          "textWidth": 298.21885850694446,
+          "fontSize": 45,
+          "scrollWidth": 470,
+          "clientWidth": 470
+        }
+      ]
+    },
+    {
+      "composition": "Binder",
+      "benefits": [
+        {
+          "text": "دعم ضبط مكونات الخلطة",
+          "x": 80,
+          "y": 1641.9999186197917,
+          "width": 920,
+          "height": 62.68758138020833,
+          "textWidth": 395.46875,
+          "fontSize": 38,
+          "scrollWidth": 920,
+          "clientWidth": 920
+        }
+      ],
+      "titles": [
+        {
+          "text": "نسبة البيتومين",
+          "x": 80,
+          "y": 440,
+          "width": 480,
+          "height": 71.99998643663194,
+          "textWidth": 273.06260850694446,
+          "fontSize": 45,
+          "scrollWidth": 480,
+          "clientWidth": 480
+        }
+      ]
+    }
+  ]
+}
