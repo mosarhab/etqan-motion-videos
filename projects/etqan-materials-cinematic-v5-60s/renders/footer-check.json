@@ -1,0 +1,29 @@
+{
+  "contacts": {
+    "frames": 1800,
+    "maximum_mean_absolute_difference_from_frame_zero_0_255": 0.5956567303213787,
+    "minimum_bright_pixels": 883
+  },
+  "creator_logo": {
+    "frames": 1800,
+    "maximum_mean_absolute_difference_from_frame_zero_0_255": 2.381159420289855,
+    "minimum_bright_pixels": 578
+  },
+  "three_contact_sections_minimum_white_pixels": [
+    250,
+    251,
+    379
+  ],
+  "extra_numbers_removed": true,
+  "creator_white_cutout_transparent": true,
+  "audio_packet_payload_identical_to_base": true,
+  "picture_above_footer": {
+    "frames_compared": 41,
+    "maximum_mean_absolute_difference_0_255": 1.6816521883010864,
+    "average_mean_absolute_difference_0_255": 1.3970127716297056
+  },
+  "numbers": [
+    "0535588975"
+  ],
+  "passed": true
+}

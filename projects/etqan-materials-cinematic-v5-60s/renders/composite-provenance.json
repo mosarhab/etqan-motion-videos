@@ -1,0 +1,32 @@
+{
+  "method": "Constant lower-third and user-authorized creator logo composited over the previously verified procedural 3D film; original audio copied",
+  "base_video_relative": "../etqan-materials-cinematic-v3-60s/renders/etqan-cinematic-3d-60s.mp4",
+  "base_video_sha256": "7a4d1118f99acc5cd714c3da8037f5cb569e3950fef58a55d94038044ba040e7",
+  "source_sha256": "abf5714085bba0e1f9b9a0b320fa115934d1b225721fd72cbec6775d413edabf",
+  "overlay_sha256": "fe3733921f96e484a970fedbbb7987508d5d046bd0d64e6021005bc2c0bd22b5",
+  "creator_mask_sha256": "772ac5afad644b1c0b393418575d8f5e734adda3b0daa9da7757768c2756c55d",
+  "creator_white_png_sha256": "7f27822e7304616c6d4afaf998214488ff02a60f888477dc2cd59b7e07d9ae9b",
+  "numbers": [
+    "0535588975"
+  ],
+  "contact_scope": "all 1800 frames",
+  "footer_layout": {
+    "left": 88,
+    "right": 88,
+    "bottom": 94,
+    "rows": 1,
+    "email": "info@etqanelbnaa.com",
+    "address": "حي القادسية، الرياض",
+    "number": "0535588975",
+    "emailFontSize": 26,
+    "addressFontSize": 28,
+    "phoneFontSize": 31.5,
+    "goldOutlineIcons": true
+  },
+  "creator_position": {
+    "left": 40,
+    "bottom": 22,
+    "width": 46,
+    "opacity": 0.5
+  }
+}
