@@ -1,0 +1,31 @@
+{
+  "name": "etqan-concrete-white-cinematic-60s",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open",
+    "check": "tsc --noEmit",
+    "render": "LIBGL_ALWAYS_SOFTWARE=1 EGL_PLATFORM=surfaceless node scripts/render.mjs",
+    "review": "LIBGL_ALWAYS_SOFTWARE=1 EGL_PLATFORM=surfaceless node scripts/review.mjs",
+    "verify": "python3 scripts/verify.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.4.0",
+    "@react-three/postprocessing": "3.0.4",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/three": "4.0.540",
+    "@remotion/transitions": "4.0.540",
+    "postprocessing": "6.38.3",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540",
+    "three": "0.181.2"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/three": "0.181.0",
+    "prettier": "^3.6.2",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "decoded_video_frame": 1755,
+  "official_png_css_size": [
+    750,
+    202.1484375
+  ],
+  "original_aspect_preserved": true,
+  "original_png_unchanged": "Also checked byte-for-byte by verify.py",
+  "codec_color_comparison": {
+    "navy": {
+      "interior_pixels": 32877,
+      "mean_absolute_rgb_error": 2.9093692652411516,
+      "source_rgb_mean": [
+        29.01028074337683,
+        48.00243331204185,
+        91.0
+      ],
+      "delivery_rgb_mean": [
+        25.544514402165646,
+        44.91346534051161,
+        88.92389816589105
+      ]
+    },
+    "gold": {
+      "interior_pixels": 992,
+      "mean_absolute_rgb_error": 3.221774193548387,
+      "source_rgb_mean": [
+        246.0110887096774,
+        199.0,
+        23.100806451612904
+      ],
+      "delivery_rgb_mean": [
+        243.39112903225808,
+        196.3891129032258,
+        19.291330645161292
+      ]
+    }
+  },
+  "note": "Tolerance covers H.264 4:2:0 compression and subpixel resize. All comparisons use fully opaque logo interiors."
+}

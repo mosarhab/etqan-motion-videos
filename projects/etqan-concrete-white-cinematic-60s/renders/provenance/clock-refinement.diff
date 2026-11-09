@@ -1,0 +1,33 @@
+--- Typography-before-clock.tsx
++++ src/Typography.tsx
+@@ -110,7 +110,7 @@
+         style={{
+           position: "absolute",
+           right: 135,
+-          top: 165,
++          top: 20,
+           width: 425,
+           textAlign: "center",
+           opacity: clock,
+@@ -144,12 +144,20 @@
+           />
+         </svg>
+         <div style={{ fontSize: 48, fontWeight: 700 }}>
+-          {days.toLocaleString("ar-SA")} يومًا
++          {days === 1
++            ? "يوم واحد"
++            : days === 2
++              ? "يومان"
++              : `${days.toLocaleString("ar-SA")} ${days <= 10 ? "أيام" : "يومًا"}`}
+         </div>
+         <div
+           style={{
+             fontSize: 25,
+             lineHeight: 1.65,
++            transform:
++              t <= 32
++                ? undefined
++                : `translateY(${-35 * smooth((t - 32) / 0.7)}px)`,
+             marginTop: 10,
+             color: "#536b77",
+           }}

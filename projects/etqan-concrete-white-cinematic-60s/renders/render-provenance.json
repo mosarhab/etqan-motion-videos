@@ -1,0 +1,83 @@
+{
+  "change": "Isolated curing-clock layout and Arabic number agreement",
+  "previous_source_sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+  "source_sha256": "3fd255a681334c8062991631c0fed6ac559509344caa1f0b6feac6f1d5af177b",
+  "affected_visible_frames": [
+    871,
+    1102
+  ],
+  "invalidated_checkpoints": [
+    [
+      840,
+      899
+    ],
+    [
+      900,
+      959
+    ],
+    [
+      960,
+      1019
+    ],
+    [
+      1020,
+      1079
+    ],
+    [
+      1080,
+      1139
+    ]
+  ],
+  "inherited_pixel_equivalent_ranges": [
+    [
+      0,
+      839
+    ],
+    [
+      1140,
+      1799
+    ]
+  ],
+  "inherited_render_source_sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+  "equivalence_basis": "The exact diff touches only the absolutely positioned clock container and its text. Its opacity is identically zero outside 29 < frame/30 < 36.75. Geometry, camera, materials, lighting, assets, audio, all other titles, composition and render settings are unchanged. All intersecting checkpoints are rebuilt; inherited frames retain the prior source provenance. The final qualifier additionally moves up 35px after frame 960, to remain clear of the cone at the lowest camera angle; its transform is undefined at earlier frames.",
+  "prior_typography": "provenance/Typography-before-clock.tsx",
+  "reviewable_diff": "provenance/clock-refinement.diff",
+  "intermediate_source_sha256": "1643f5efe09f4da72077873e555577d097bdcec32e564172aeffc765e0f5902a",
+  "intermediate_typography": "provenance/Typography-before-qualifier.tsx",
+  "qualifier_refinement_visible_frames": [
+    961,
+    1102
+  ],
+  "rendered_from_current_source_ranges": [
+    [
+      960,
+      1139
+    ]
+  ],
+  "inherited_frame_sources": [
+    {
+      "frames": [
+        0,
+        839
+      ],
+      "sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+      "basis": "Clock opacity is zero."
+    },
+    {
+      "frames": [
+        840,
+        959
+      ],
+      "sha256": "1643f5efe09f4da72077873e555577d097bdcec32e564172aeffc765e0f5902a",
+      "basis": "The qualifier transform is undefined through frame 960; clock layout and words are identical in this range."
+    },
+    {
+      "frames": [
+        1140,
+        1799
+      ],
+      "sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+      "basis": "Clock opacity is zero."
+    }
+  ]
+}

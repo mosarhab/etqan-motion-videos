@@ -1,0 +1,23 @@
+{
+  "baseline_commit": "ae7450222f8f4a191e4b2105f50f4905914ed778",
+  "previous_tracked_paths": 788,
+  "tracked_changes_outside_new_project": [],
+  "old_video_and_untracked_frame_checksums": [
+    {
+      "path": "projects/etqan-materials-cinematic-v8-voice-60s/renders/etqan-cinematic-3d-60s.mp4",
+      "bytes": 21262826,
+      "sha256": "fae43509937bfb97983ab25317276ae7863cfdf526090bfbba9ef2aae71af080"
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v7-60s/renders/etqan-cinematic-3d-60s.mp4",
+      "bytes": 20230271,
+      "sha256": "0f29f3de99fbeaf9a369c89b87386b48222d6492aa92a8a457a6970ee6e0e414"
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+      "bytes": 1439196,
+      "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d"
+    }
+  ],
+  "note": "The unrelated pre-existing untracked v5 soil frame is deliberately left untouched and not staged."
+}

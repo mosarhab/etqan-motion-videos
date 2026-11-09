@@ -1,0 +1,321 @@
+{
+  "representative": [
+    [
+      0,
+      "Opening"
+    ],
+    [
+      45,
+      "Macro hook"
+    ],
+    [
+      165,
+      "Pour"
+    ],
+    [
+      225,
+      "Cone"
+    ],
+    [
+      315,
+      "Vertical lift"
+    ],
+    [
+      405,
+      "Settle"
+    ],
+    [
+      465,
+      "Overhead slump"
+    ],
+    [
+      525,
+      "Moulds"
+    ],
+    [
+      615,
+      "Fill"
+    ],
+    [
+      735,
+      "Screed"
+    ],
+    [
+      825,
+      "Lower rack"
+    ],
+    [
+      885,
+      "Day agreement"
+    ],
+    [
+      945,
+      "Water curing"
+    ],
+    [
+      1020,
+      "Qualifier clearance"
+    ],
+    [
+      1071,
+      "28-day qualifier"
+    ],
+    [
+      1170,
+      "Compression frame"
+    ],
+    [
+      1290,
+      "Load contact"
+    ],
+    [
+      1368,
+      "Before fracture"
+    ],
+    [
+      1395,
+      "Cracking"
+    ],
+    [
+      1455,
+      "Restrained fracture"
+    ],
+    [
+      1560,
+      "Pullback"
+    ],
+    [
+      1620,
+      "Brand reveal"
+    ],
+    [
+      1755,
+      "Closing"
+    ],
+    [
+      1799,
+      "Last frame"
+    ]
+  ],
+  "transition_frames": [
+    132,
+    138,
+    207,
+    213,
+    507,
+    513,
+    807,
+    813,
+    1107,
+    1113,
+    1497,
+    1503,
+    1587,
+    1593
+  ],
+  "all_exported_frames": [
+    0,
+    30,
+    42,
+    45,
+    119,
+    120,
+    132,
+    138,
+    155,
+    165,
+    167,
+    207,
+    213,
+    225,
+    299,
+    300,
+    312,
+    315,
+    405,
+    417,
+    465,
+    507,
+    513,
+    525,
+    599,
+    600,
+    612,
+    615,
+    720,
+    732,
+    735,
+    807,
+    813,
+    825,
+    835,
+    847,
+    885,
+    899,
+    900,
+    940,
+    945,
+    952,
+    1020,
+    1071,
+    1107,
+    1113,
+    1170,
+    1180,
+    1192,
+    1280,
+    1290,
+    1292,
+    1368,
+    1379,
+    1380,
+    1392,
+    1395,
+    1450,
+    1455,
+    1462,
+    1497,
+    1503,
+    1560,
+    1587,
+    1590,
+    1593,
+    1602,
+    1619,
+    1620,
+    1750,
+    1755,
+    1762,
+    1799
+  ],
+  "cover_frame": 1674,
+  "checkpoint_boundary_frames": [
+    119,
+    120,
+    299,
+    300,
+    599,
+    600,
+    899,
+    900,
+    1379,
+    1380,
+    1619,
+    1620
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        30,
+        42
+      ],
+      "mean_pixel_delta": 6.49431031543052,
+      "changed": true
+    },
+    {
+      "frames": [
+        155,
+        167
+      ],
+      "mean_pixel_delta": 5.499089514066497,
+      "changed": true
+    },
+    {
+      "frames": [
+        300,
+        312
+      ],
+      "mean_pixel_delta": 4.885602728047741,
+      "changed": true
+    },
+    {
+      "frames": [
+        405,
+        417
+      ],
+      "mean_pixel_delta": 7.828364876385336,
+      "changed": true
+    },
+    {
+      "frames": [
+        600,
+        612
+      ],
+      "mean_pixel_delta": 7.331485080988918,
+      "changed": true
+    },
+    {
+      "frames": [
+        720,
+        732
+      ],
+      "mean_pixel_delta": 7.351367433930093,
+      "changed": true
+    },
+    {
+      "frames": [
+        835,
+        847
+      ],
+      "mean_pixel_delta": 10.067234441602729,
+      "changed": true
+    },
+    {
+      "frames": [
+        940,
+        952
+      ],
+      "mean_pixel_delta": 4.71370673486786,
+      "changed": true
+    },
+    {
+      "frames": [
+        1180,
+        1192
+      ],
+      "mean_pixel_delta": 16.790368286445013,
+      "changed": true
+    },
+    {
+      "frames": [
+        1280,
+        1292
+      ],
+      "mean_pixel_delta": 9.908274509803922,
+      "changed": true
+    },
+    {
+      "frames": [
+        1380,
+        1392
+      ],
+      "mean_pixel_delta": 7.19956010230179,
+      "changed": true
+    },
+    {
+      "frames": [
+        1450,
+        1462
+      ],
+      "mean_pixel_delta": 20.831031543052003,
+      "changed": true
+    },
+    {
+      "frames": [
+        1590,
+        1602
+      ],
+      "mean_pixel_delta": 9.504779198635976,
+      "changed": true
+    },
+    {
+      "frames": [
+        1750,
+        1762
+      ],
+      "mean_pixel_delta": 2.939469735720375,
+      "changed": true
+    }
+  ],
+  "note": "Frame differences support motion; actual camera and mesh animation also reviewed in source. No film annotations added."
+}

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "cone_geometry_ratios": {
+    "height": 300,
+    "base_diameter": 200,
+    "top_diameter": 100
+  },
+  "note": "Ratios describe the model, not an on-screen measurement or reported test result",
+  "vertical_lift_seconds": 5,
+  "vertical_lift_ends_before_sideways_motion": true,
+  "constant_speed_between_ease_ramps": true,
+  "maximum_ideal_frustum_relative_volume_error": 2.824411046380758e-16,
+  "curing_specimens_fully_submerged_after_lowering": true,
+  "curing_water_below_tank_rim": true,
+  "28_days_qualified_as_one_common_age": true,
+  "platens_contact_specimen_at_intended_positions": true,
+  "strain_motion_stays_between_platens": true,
+  "spherical_seat_contacts_upper_cap": true,
+  "limits": "Procedural illustration. Flow, slump and fracture are art-directed, not calibrated fluid or structural simulations. Surface noise is excluded from the ideal volume check."
+}

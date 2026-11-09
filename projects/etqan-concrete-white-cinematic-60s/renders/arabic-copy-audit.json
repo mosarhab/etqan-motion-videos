@@ -1,0 +1,30 @@
+{
+  "on_screen_copy": [
+    "القوة لا تُفترض…",
+    "بل تُختبر",
+    "اختبار الهبوط",
+    "إعداد العينات بدقة",
+    "المعالجة وفق المتطلبات الفنية",
+    "اختبار مقاومة الضغط",
+    "دقة تُقاس… وثقة تُبنى",
+    "يوم واحد",
+    "يومان",
+    "أيام",
+    "يومًا",
+    "أحد أعمار اختبار المقاومة الشائعة",
+    "خلال المعالجة",
+    "مختبر إتقان البناء",
+    "لفحص التربة والمواد",
+    "إتقان البناء…",
+    "لأن الثقة تبدأ من الاختبار",
+    "الرياض – المملكة العربية السعودية"
+  ],
+  "font": "Cairo variable, local font load awaited before rendering",
+  "direction": "RTL on authored Arabic text",
+  "results_or_strength_numbers": false,
+  "other_services_scenes": false,
+  "official_logo_preserved": "Source PNG byte identity checked separately; embedded English retained as part of original mark",
+  "review_basis": "Representative rendered frames plus source text inspection",
+  "day_number_agreement": "One day: يوم واحد; two: يومان; 3–10: أيام; 11–28: يومًا",
+  "clock_layout": "Raised; qualifier moves up smoothly after 32 seconds to clear the cone at the lowest camera angle."
+}

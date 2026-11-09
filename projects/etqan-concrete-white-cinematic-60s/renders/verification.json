@@ -1,0 +1,117 @@
+{
+  "video": "etqan-concrete-cinematic-60s-no-vo.mp4",
+  "verified": true,
+  "source_sha256": "3fd255a681334c8062991631c0fed6ac559509344caa1f0b6feac6f1d5af177b",
+  "sha256": "b1d7a281c870bf404724dad32f571b9980e40c2df08fea7ff6914f238baa6456",
+  "bytes": 34361104,
+  "duration_seconds": 60.0,
+  "frames": 1800,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "30/1",
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_peak_dbfs": -2.781465702201744,
+  "audio_rms_dbfs": -17.430069853381923,
+  "integrated_lufs": -18.02,
+  "true_peak_dbtp": -2.73,
+  "full_decode": "passed",
+  "audio_matches_original_score_correlation": 0.9997409398279339,
+  "voiceover_included": false,
+  "voiceover_fallback": "Original music and synthesized Foley only; recording text and proposed cues delivered",
+  "original_logo_source_identical": true,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_rendering": "Authentic PNG, unchanged colors and aspect; official embedded English retained",
+  "visual_style": "Procedural PBR 3D studio animation; not photorealistic footage or calibrated physical simulation",
+  "production_incremental_render_provenance": {
+    "change": "Isolated curing-clock layout and Arabic number agreement",
+    "previous_source_sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+    "source_sha256": "3fd255a681334c8062991631c0fed6ac559509344caa1f0b6feac6f1d5af177b",
+    "affected_visible_frames": [
+      871,
+      1102
+    ],
+    "invalidated_checkpoints": [
+      [
+        840,
+        899
+      ],
+      [
+        900,
+        959
+      ],
+      [
+        960,
+        1019
+      ],
+      [
+        1020,
+        1079
+      ],
+      [
+        1080,
+        1139
+      ]
+    ],
+    "inherited_pixel_equivalent_ranges": [
+      [
+        0,
+        839
+      ],
+      [
+        1140,
+        1799
+      ]
+    ],
+    "inherited_render_source_sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+    "equivalence_basis": "The exact diff touches only the absolutely positioned clock container and its text. Its opacity is identically zero outside 29 < frame/30 < 36.75. Geometry, camera, materials, lighting, assets, audio, all other titles, composition and render settings are unchanged. All intersecting checkpoints are rebuilt; inherited frames retain the prior source provenance. The final qualifier additionally moves up 35px after frame 960, to remain clear of the cone at the lowest camera angle; its transform is undefined at earlier frames.",
+    "prior_typography": "provenance/Typography-before-clock.tsx",
+    "reviewable_diff": "provenance/clock-refinement.diff",
+    "intermediate_source_sha256": "1643f5efe09f4da72077873e555577d097bdcec32e564172aeffc765e0f5902a",
+    "intermediate_typography": "provenance/Typography-before-qualifier.tsx",
+    "qualifier_refinement_visible_frames": [
+      961,
+      1102
+    ],
+    "rendered_from_current_source_ranges": [
+      [
+        960,
+        1139
+      ]
+    ],
+    "inherited_frame_sources": [
+      {
+        "frames": [
+          0,
+          839
+        ],
+        "sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+        "basis": "Clock opacity is zero."
+      },
+      {
+        "frames": [
+          840,
+          959
+        ],
+        "sha256": "1643f5efe09f4da72077873e555577d097bdcec32e564172aeffc765e0f5902a",
+        "basis": "The qualifier transform is undefined through frame 960; clock layout and words are identical in this range."
+      },
+      {
+        "frames": [
+          1140,
+          1799
+        ],
+        "sha256": "8479fdc59427b99eca333750f00c5f70fa258d447ca57c1959aba9a59f23e5d8",
+        "basis": "Clock opacity is zero."
+      }
+    ],
+    "prior_source_reconstruction_verified": true
+  }
+}

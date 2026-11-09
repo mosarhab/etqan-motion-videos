@@ -1,0 +1,71 @@
+{
+  "status": "Recording guide; no voice has been synthesized or fitted",
+  "fps": 30,
+  "duration_seconds": 60,
+  "music_breathing_space": [
+    29,
+    34
+  ],
+  "cues": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 7,
+      "text": "قبل أن ترتفع المباني... وقبل أن تتحول المخططات إلى واقع..."
+    },
+    {
+      "start_seconds": 7,
+      "end_seconds": 12,
+      "text": "هناك قوة لا بد أن تُختبر."
+    },
+    {
+      "start_seconds": 12,
+      "end_seconds": 16,
+      "text": "في عالم الإنشاءات... لا مكان للتخمين."
+    },
+    {
+      "start_seconds": 16,
+      "end_seconds": 20,
+      "text": "من اختبار هبوط الخرسانة..."
+    },
+    {
+      "start_seconds": 20,
+      "end_seconds": 24,
+      "text": "إلى إعداد العينات..."
+    },
+    {
+      "start_seconds": 24,
+      "end_seconds": 29,
+      "text": "ومعالجتها بعناية..."
+    },
+    {
+      "start_seconds": 34,
+      "end_seconds": 37,
+      "text": "وصولًا إلى اختبار مقاومة الضغط."
+    },
+    {
+      "start_seconds": 37,
+      "end_seconds": 42.5,
+      "text": "في مختبر إتقان البناء، نؤمن أن كل اختبار مسؤولية..."
+    },
+    {
+      "start_seconds": 42.5,
+      "end_seconds": 48,
+      "text": "وأن الدقة ليست مجرد إجراء، بل أساس القرار الهندسي السليم."
+    },
+    {
+      "start_seconds": 48,
+      "end_seconds": 51.5,
+      "text": "نختبر لنتحقق... ونقيس لنمنح الثقة."
+    },
+    {
+      "start_seconds": 51.5,
+      "end_seconds": 56.5,
+      "text": "لأن جودة البناء لا تُقاس بالمظهر... بل بما تؤكده النتائج."
+    },
+    {
+      "start_seconds": 56.5,
+      "end_seconds": 60,
+      "text": "إتقان البناء... لأن الثقة تبدأ من الاختبار."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "duration_seconds": 60,
+  "sample_rate": 48000,
+  "channels": 2,
+  "samples_per_channel": 2880000,
+  "original_synthesis": true,
+  "third_party_samples": false,
+  "loudness_target_lufs": -18,
+  "linear_master_gain": 2.744732343478536,
+  "pcm_peak_dbfs": -2.528969290178849,
+  "voiceover_included": false,
+  "voiceover_status": "Professional Arabic TTS unavailable; authorized music/SFX fallback",
+  "sound_cues_seconds": {
+    "cone_lift": [
+      8.3,
+      13.3
+    ],
+    "preparation_pour": [
+      17.4,
+      23.6
+    ],
+    "immersion": [
+      27.5,
+      29.8
+    ],
+    "compression_motor": [
+      38.1,
+      45.9
+    ],
+    "fracture": 45.92,
+    "brand_resolution": 53.05
+  }
+}

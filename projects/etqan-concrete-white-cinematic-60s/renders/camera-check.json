@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "framesChecked": 1800,
+  "maxCameraTranslationPerFrame": 0.2616664442105018,
+  "maxTargetTranslationPerFrame": 0.2107676833452817,
+  "allCameraFramesMove": true,
+  "stationPresence": "Persistent geometry; camera reveals objects without timeline mount/unmount switches",
+  "deterministic": "Frame-derived camera and mesh poses; seeded procedural textures",
+  "limits": "Smooth keyframe path; this is not optical-flow or subjective motion-quality certification"
+}
