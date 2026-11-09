@@ -1,0 +1,37 @@
+{
+  "status": "Proposed recording guide; no professional narration was generated",
+  "duration_seconds": 60,
+  "voice": "Confident male Arabic, clear formal pronunciation; calm client explanation, unhurried delivery",
+  "cues": [
+    {
+      "start_seconds": 0,
+      "end_seconds": 6,
+      "text": "القوة لا تُفترض… بل تُختبر."
+    },
+    {
+      "start_seconds": 6,
+      "end_seconds": 20,
+      "text": "قبل الصب، نفحص هبوط الخرسانة ودرجة حرارتها، للمساعدة في تقييم قوامها وملاءمتها لمتطلبات المشروع."
+    },
+    {
+      "start_seconds": 20,
+      "end_seconds": 32,
+      "text": "ونجهّز عينات أسطوانية تمثّل الخرسانة المورّدة، لتقييم مقاومتها بصورة سليمة."
+    },
+    {
+      "start_seconds": 32,
+      "end_seconds": 43,
+      "text": "بعد التصلّب وفكّ القوالب، تُعالَج العينات وفق المتطلبات الفنية والعمر المحدد للاختبار."
+    },
+    {
+      "start_seconds": 43,
+      "end_seconds": 55,
+      "text": "ثم نختبر مقاومة الضغط، لتقييم مدى مطابقتها للمقاومة المطلوبة في المشروع. نتائج تدعم تقييم المهندس وقراره."
+    },
+    {
+      "start_seconds": 55,
+      "end_seconds": 60,
+      "text": "مختبر إتقان البناء… الدقة أساس الثقة."
+    }
+  ]
+}

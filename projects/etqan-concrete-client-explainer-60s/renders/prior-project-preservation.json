@@ -1,0 +1,14 @@
+{
+  "baseline_commit": "42f62d221a0c564d457f6e45538358120eb9c7d3",
+  "changes_to_preexisting_tracked_paths": [],
+  "previous_film": {
+    "path": "projects/etqan-concrete-white-cinematic-60s/renders/etqan-concrete-cinematic-60s-no-vo.mp4",
+    "sha256": "b1d7a281c870bf404724dad32f571b9980e40c2df08fea7ff6914f238baa6456",
+    "unchanged": true
+  },
+  "unrelated_preexisting_untracked_frame": {
+    "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+    "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+    "left_untouched_and_unstaged": true
+  }
+}

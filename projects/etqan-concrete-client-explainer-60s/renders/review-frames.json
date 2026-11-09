@@ -1,0 +1,282 @@
+{
+  "representative": [
+    [
+      0,
+      "First frame"
+    ],
+    [
+      75,
+      "Opening hook"
+    ],
+    [
+      210,
+      "Slump and temperature"
+    ],
+    [
+      330,
+      "Vertical lift and probe"
+    ],
+    [
+      450,
+      "Settled concrete"
+    ],
+    [
+      630,
+      "Cylindrical moulds"
+    ],
+    [
+      720,
+      "Sample filling"
+    ],
+    [
+      840,
+      "Compaction"
+    ],
+    [
+      915,
+      "Surface preparation"
+    ],
+    [
+      990,
+      "Curing after demoulding"
+    ],
+    [
+      1080,
+      "Immersion"
+    ],
+    [
+      1200,
+      "Fully submerged cylinders"
+    ],
+    [
+      1320,
+      "Compression introduction"
+    ],
+    [
+      1410,
+      "Load contact"
+    ],
+    [
+      1530,
+      "Controlled cracking"
+    ],
+    [
+      1710,
+      "Brand and CTA"
+    ],
+    [
+      1799,
+      "Final held frame"
+    ]
+  ],
+  "transition_frames": [
+    177,
+    183,
+    195,
+    597,
+    603,
+    615,
+    957,
+    963,
+    975,
+    1287,
+    1293,
+    1305,
+    1647,
+    1653,
+    1665
+  ],
+  "all_exported_frames": [
+    0,
+    75,
+    90,
+    177,
+    183,
+    195,
+    210,
+    300,
+    315,
+    330,
+    450,
+    597,
+    603,
+    615,
+    630,
+    690,
+    705,
+    720,
+    825,
+    837,
+    840,
+    915,
+    957,
+    963,
+    975,
+    990,
+    1020,
+    1035,
+    1080,
+    1200,
+    1287,
+    1293,
+    1305,
+    1320,
+    1380,
+    1395,
+    1410,
+    1510,
+    1530,
+    1647,
+    1653,
+    1665,
+    1710,
+    1799
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        75,
+        90
+      ],
+      "mean_rgb_delta_in_diagram": 0.34933333333333333
+    },
+    {
+      "frames": [
+        300,
+        315
+      ],
+      "mean_rgb_delta_in_diagram": 3.3419943883277217
+    },
+    {
+      "frames": [
+        315,
+        330
+      ],
+      "mean_rgb_delta_in_diagram": 3.1299197530864196
+    },
+    {
+      "frames": [
+        690,
+        705
+      ],
+      "mean_rgb_delta_in_diagram": 2.989827721661055
+    },
+    {
+      "frames": [
+        825,
+        837
+      ],
+      "mean_rgb_delta_in_diagram": 0.11345847362514029
+    },
+    {
+      "frames": [
+        1020,
+        1035
+      ],
+      "mean_rgb_delta_in_diagram": 10.078869809203143
+    },
+    {
+      "frames": [
+        1380,
+        1395
+      ],
+      "mean_rgb_delta_in_diagram": 1.1271228956228956
+    },
+    {
+      "frames": [
+        1510,
+        1530
+      ],
+      "mean_rgb_delta_in_diagram": 0.1780858585858586
+    }
+  ],
+  "persistent_branding": [
+    {
+      "frame": 0,
+      "header_mean_delta": 0.05775568181818182,
+      "footer_mean_delta": 0.04280500315656566
+    },
+    {
+      "frame": 75,
+      "header_mean_delta": 0.0,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 210,
+      "header_mean_delta": 0.014790614478114477,
+      "footer_mean_delta": 0.0011146622474747475
+    },
+    {
+      "frame": 330,
+      "header_mean_delta": 0.5653766835016835,
+      "footer_mean_delta": 0.4080591066919192
+    },
+    {
+      "frame": 450,
+      "header_mean_delta": 0.5609480218855218,
+      "footer_mean_delta": 0.4051629577020202
+    },
+    {
+      "frame": 630,
+      "header_mean_delta": 0.4599978956228956,
+      "footer_mean_delta": 0.3454703282828283
+    },
+    {
+      "frame": 720,
+      "header_mean_delta": 0.460022095959596,
+      "footer_mean_delta": 0.3447305082070707
+    },
+    {
+      "frame": 840,
+      "header_mean_delta": 0.46208648989898987,
+      "footer_mean_delta": 0.33886126893939394
+    },
+    {
+      "frame": 915,
+      "header_mean_delta": 0.4724568602693603,
+      "footer_mean_delta": 0.34691642992424243
+    },
+    {
+      "frame": 990,
+      "header_mean_delta": 0.47347011784511783,
+      "footer_mean_delta": 0.34691642992424243
+    },
+    {
+      "frame": 1080,
+      "header_mean_delta": 0.4413983585858586,
+      "footer_mean_delta": 0.33773082386363634
+    },
+    {
+      "frame": 1200,
+      "header_mean_delta": 0.47453072390572393,
+      "footer_mean_delta": 0.3535235164141414
+    },
+    {
+      "frame": 1320,
+      "header_mean_delta": 0.4404598063973064,
+      "footer_mean_delta": 0.3333589804292929
+    },
+    {
+      "frame": 1410,
+      "header_mean_delta": 0.4402146464646465,
+      "footer_mean_delta": 0.3333589804292929
+    },
+    {
+      "frame": 1530,
+      "header_mean_delta": 0.43196022727272726,
+      "footer_mean_delta": 0.3380839646464647
+    },
+    {
+      "frame": 1710,
+      "header_mean_delta": 0.4337342171717172,
+      "footer_mean_delta": 0.33820233585858583
+    },
+    {
+      "frame": 1799,
+      "header_mean_delta": 0.5953061868686869,
+      "footer_mean_delta": 0.4252367424242424
+    }
+  ],
+  "cover_frame": 1515,
+  "note": "English review labels appear only on this QA sheet, never in the video."
+}
