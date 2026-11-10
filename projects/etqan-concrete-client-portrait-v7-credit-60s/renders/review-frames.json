@@ -1,0 +1,350 @@
+{
+  "representative": [
+    [
+      0,
+      "First frame"
+    ],
+    [
+      75,
+      "Revised opening"
+    ],
+    [
+      210,
+      "Slump and temperature"
+    ],
+    [
+      330,
+      "Lift and probe"
+    ],
+    [
+      525,
+      "Cone smoothly removed"
+    ],
+    [
+      630,
+      "Cylindrical moulds"
+    ],
+    [
+      720,
+      "Sample preparation"
+    ],
+    [
+      840,
+      "Rodding"
+    ],
+    [
+      915,
+      "New sample copy"
+    ],
+    [
+      990,
+      "Curing follows preparation"
+    ],
+    [
+      1080,
+      "Immersion"
+    ],
+    [
+      1098,
+      "One day"
+    ],
+    [
+      1104,
+      "Two days"
+    ],
+    [
+      1110,
+      "Three days"
+    ],
+    [
+      1170,
+      "Age advances"
+    ],
+    [
+      1230,
+      "28 days example"
+    ],
+    [
+      1260,
+      "Age endpoint held"
+    ],
+    [
+      1200,
+      "Curing before strength"
+    ],
+    [
+      1320,
+      "Compression"
+    ],
+    [
+      1410,
+      "Loading"
+    ],
+    [
+      1530,
+      "Progressive cracks"
+    ],
+    [
+      1710,
+      "Closing"
+    ],
+    [
+      1799,
+      "Final held frame"
+    ]
+  ],
+  "all_exported_frames": [
+    0,
+    75,
+    90,
+    179,
+    189,
+    199,
+    210,
+    300,
+    315,
+    330,
+    495,
+    525,
+    599,
+    609,
+    619,
+    630,
+    690,
+    705,
+    720,
+    825,
+    837,
+    840,
+    915,
+    959,
+    969,
+    979,
+    990,
+    1020,
+    1035,
+    1080,
+    1098,
+    1104,
+    1110,
+    1170,
+    1200,
+    1230,
+    1260,
+    1289,
+    1299,
+    1309,
+    1320,
+    1380,
+    1395,
+    1410,
+    1510,
+    1530,
+    1649,
+    1659,
+    1669,
+    1710,
+    1799
+  ],
+  "transition_frames": [
+    179,
+    189,
+    199,
+    599,
+    609,
+    619,
+    959,
+    969,
+    979,
+    1289,
+    1299,
+    1309,
+    1649,
+    1659,
+    1669
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        75,
+        90
+      ],
+      "diagram_mean_rgb_delta": 0.22634938409854424
+    },
+    {
+      "frames": [
+        300,
+        315
+      ],
+      "diagram_mean_rgb_delta": 2.9496052631578946
+    },
+    {
+      "frames": [
+        315,
+        330
+      ],
+      "diagram_mean_rgb_delta": 2.8644307577454273
+    },
+    {
+      "frames": [
+        495,
+        525
+      ],
+      "diagram_mean_rgb_delta": 5.652797685703621
+    },
+    {
+      "frames": [
+        690,
+        705
+      ],
+      "diagram_mean_rgb_delta": 2.741749253452781
+    },
+    {
+      "frames": [
+        825,
+        837
+      ],
+      "diagram_mean_rgb_delta": 0.10327500933184024
+    },
+    {
+      "frames": [
+        1020,
+        1035
+      ],
+      "diagram_mean_rgb_delta": 9.324842291899962
+    },
+    {
+      "frames": [
+        1380,
+        1395
+      ],
+      "diagram_mean_rgb_delta": 1.0528798058977231
+    },
+    {
+      "frames": [
+        1510,
+        1530
+      ],
+      "diagram_mean_rgb_delta": 0.17272209779768571
+    }
+  ],
+  "persistent_branding": [
+    {
+      "frame": 0,
+      "header_mean_delta": 0.05712779611294463,
+      "footer_mean_delta": 0.01820436507936508
+    },
+    {
+      "frame": 75,
+      "header_mean_delta": 0.0,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 210,
+      "header_mean_delta": 0.010706209509839873,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 330,
+      "header_mean_delta": 0.7216309130913091,
+      "footer_mean_delta": 0.601645171957672
+    },
+    {
+      "frame": 525,
+      "header_mean_delta": 0.6087901845740129,
+      "footer_mean_delta": 0.4904734347442681
+    },
+    {
+      "frame": 630,
+      "header_mean_delta": 0.6943879110133235,
+      "footer_mean_delta": 0.5489225088183421
+    },
+    {
+      "frame": 720,
+      "header_mean_delta": 0.6907040704070407,
+      "footer_mean_delta": 0.5503885582010583
+    },
+    {
+      "frame": 840,
+      "header_mean_delta": 0.6756447867008923,
+      "footer_mean_delta": 0.5377121913580247
+    },
+    {
+      "frame": 915,
+      "header_mean_delta": 0.6401127612761276,
+      "footer_mean_delta": 0.5228780864197531
+    },
+    {
+      "frame": 990,
+      "header_mean_delta": 0.6396009045348979,
+      "footer_mean_delta": 0.6435378086419753
+    },
+    {
+      "frame": 1080,
+      "header_mean_delta": 0.627053538687202,
+      "footer_mean_delta": 0.5639440035273369
+    },
+    {
+      "frame": 1098,
+      "header_mean_delta": 0.6272093876054272,
+      "footer_mean_delta": 0.5639440035273369
+    },
+    {
+      "frame": 1104,
+      "header_mean_delta": 0.627053538687202,
+      "footer_mean_delta": 0.5639440035273369
+    },
+    {
+      "frame": 1110,
+      "header_mean_delta": 0.6272093876054272,
+      "footer_mean_delta": 0.5639440035273369
+    },
+    {
+      "frame": 1170,
+      "header_mean_delta": 0.6486615328199486,
+      "footer_mean_delta": 0.568708664021164
+    },
+    {
+      "frame": 1230,
+      "header_mean_delta": 0.619837122601149,
+      "footer_mean_delta": 0.5536292989417989
+    },
+    {
+      "frame": 1260,
+      "header_mean_delta": 0.6085441877521085,
+      "footer_mean_delta": 0.4904734347442681
+    },
+    {
+      "frame": 1200,
+      "header_mean_delta": 0.6320941816403862,
+      "footer_mean_delta": 0.5616622574955908
+    },
+    {
+      "frame": 1320,
+      "header_mean_delta": 0.6671204620462046,
+      "footer_mean_delta": 0.5568094135802469
+    },
+    {
+      "frame": 1410,
+      "header_mean_delta": 0.6671204620462046,
+      "footer_mean_delta": 0.5568094135802469
+    },
+    {
+      "frame": 1530,
+      "header_mean_delta": 0.6118292384794035,
+      "footer_mean_delta": 0.49144069664903
+    },
+    {
+      "frame": 1710,
+      "header_mean_delta": 0.7843677423297886,
+      "footer_mean_delta": 0.6935185185185185
+    },
+    {
+      "frame": 1799,
+      "header_mean_delta": 0.7430784745141181,
+      "footer_mean_delta": 0.6186921296296296
+    }
+  ],
+  "cover_frame": 1710,
+  "review_labels": "Outside the film on this QA contact sheet only"
+}
