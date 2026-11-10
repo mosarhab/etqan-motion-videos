@@ -1,0 +1,25 @@
+{
+  "name": "etqan-concrete-client-portrait-v6-voice-60s",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port 3016",
+    "check": "tsc --noEmit",
+    "render": "node scripts/render.mjs",
+    "review": "node scripts/review.mjs",
+    "verify": "python3 scripts/verify.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/transitions": "4.0.540",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.540"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "prettier": "^3.6.2",
+    "typescript": "5.9.3"
+  }
+}

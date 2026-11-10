@@ -1,0 +1,20 @@
+{
+  "baseline_commit": "7cc1b9c188362908a8250e512b4e5f6da9ad1a1e",
+  "preexisting_tracked_paths_changed": [],
+  "previous_portrait_video": {
+    "path": "projects/etqan-concrete-client-portrait-v5-60s/renders/etqan-concrete-client-portrait-v5-60s.mp4",
+    "sha256": "7b6538e15e224f1638dce465955d7605a2508bb4142ce82296caefc46437276e",
+    "unchanged": true
+  },
+  "unrelated_v5_frame": {
+    "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+    "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+    "untouched_and_unstaged": true
+  },
+  "saved_series_concept": {
+    "path": "notes/SERIES-CONCEPT.md",
+    "unchanged_from_previous": true
+  },
+  "visual_source_unchanged_except_composition_id": true,
+  "brand_and_font_assets_unchanged": true
+}

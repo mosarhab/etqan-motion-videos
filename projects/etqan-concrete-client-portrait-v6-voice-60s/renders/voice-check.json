@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "cues": [
+    {
+      "scene": "opening",
+      "start": 0.6,
+      "end": 3.4,
+      "speech_waveform_correlation": 0.9803744986755355,
+      "active_speech_to_music_db": 15.303144454956055,
+      "fits_scene": true,
+      "speed_ratio": 1
+    },
+    {
+      "scene": "fresh",
+      "start": 6.45,
+      "end": 17.85,
+      "speech_waveform_correlation": 0.9835597350825813,
+      "active_speech_to_music_db": 15.477214813232422,
+      "fits_scene": true,
+      "speed_ratio": 1
+    },
+    {
+      "scene": "samples",
+      "start": 20.55,
+      "end": 29.15,
+      "speech_waveform_correlation": 0.9859462663665385,
+      "active_speech_to_music_db": 15.99145793914795,
+      "fits_scene": true,
+      "speed_ratio": 1
+    },
+    {
+      "scene": "curing",
+      "start": 32.4,
+      "end": 42.8,
+      "speech_waveform_correlation": 0.9787407130358268,
+      "active_speech_to_music_db": 14.325248718261719,
+      "fits_scene": true,
+      "speed_ratio": 1
+    },
+    {
+      "scene": "compression",
+      "start": 43.45,
+      "end": 54.550000000000004,
+      "speech_waveform_correlation": 0.9837419206018744,
+      "active_speech_to_music_db": 15.5637788772583,
+      "fits_scene": true,
+      "speed_ratio": 1
+    },
+    {
+      "scene": "closing",
+      "start": 55.75,
+      "end": 59.52429166666667,
+      "speech_waveform_correlation": 0.9726818262706842,
+      "active_speech_to_music_db": 13.915606498718262,
+      "fits_scene": true,
+      "speed_ratio": 1
+    }
+  ],
+  "all_speech_within_60_seconds": true,
+  "no_time_stretch": true,
+  "original_video_stream_retained": true,
+  "limits": "Signal/timing checks and automatic local phrase recognition; not human listening approval or word-level forced alignment."
+}
