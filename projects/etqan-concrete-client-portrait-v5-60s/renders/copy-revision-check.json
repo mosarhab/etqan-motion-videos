@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "removed_from_active_video_source": [
+    "اعرف ما الذي نفحصه",
+    "عينات أسطوانية تمثّل الخرسانة",
+    "عينات تمثّل الخرسانة المورّدة إلى المشروع."
+  ],
+  "opening_replacement": "اختبارات تعطيك صورة أوضح عن جودة الخرسانة.",
+  "sample_replacement": "تجهيز دقيق للعينات… لتقييم سليم لمقاومة الخرسانة.",
+  "duplicate_sample_label_removed": true,
+  "series_idea_saved": "notes/SERIES-CONCEPT.md",
+  "series_identity_not_added_to_current_film": true,
+  "new_canvas": [
+    1080,
+    1920
+  ],
+  "transition_overlap_frames": 18
+}

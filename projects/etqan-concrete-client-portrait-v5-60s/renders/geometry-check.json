@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "all_concrete_specimens": "Cylindrical; nominal height/diameter approximately 2",
+  "curing_before_compression": true,
+  "platen_contact_precedes_crack": true,
+  "platen_and_sample_positions_match": true,
+  "final_curing_fully_submerged": true,
+  "probe_embedded_with_surrounding_concrete": true,
+  "ideal_frustum_relative_volume_error": 4.2047431432796103e-16,
+  "no_webgl_or_three_scene": true,
+  "approved_footer_and_closing_numbers_only": true,
+  "limits": "Pixel proportions and schematic sequence checks, not a certified test procedure or physical simulation. No measured temperature, slump or strength results are displayed."
+}

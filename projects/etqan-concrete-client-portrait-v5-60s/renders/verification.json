@@ -1,0 +1,33 @@
+{
+  "video": "etqan-concrete-client-portrait-v5-60s.mp4",
+  "verified": true,
+  "duration_seconds": 60,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "color_range": "tv",
+  "audio_codec": "aac",
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_correlation_with_original_score": 1.0,
+  "integrated_lufs": -18.02,
+  "true_peak_dbtp": -3.23,
+  "full_decode": "passed",
+  "faststart": true,
+  "source_sha256": "9549719a42f9a38e303bfe89aca85644db0e83c90e6c56f418516a81341eeb90",
+  "sha256": "7b6538e15e224f1638dce465955d7605a2508bb4142ce82296caefc46437276e",
+  "bytes": 5706503,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_asset_unchanged": true,
+  "logo_display": "Previously authorized white lettering and original gold; original proportions and alpha",
+  "implementation": "Animated SVG engineering diagrams and React typography; no Three.js/WebGL models, photos, stock video or still-image scenes",
+  "voiceover_included": false,
+  "voiceover_status": "Music/SFX fallback; Arabic recording script and proposed cues supplied"
+}
