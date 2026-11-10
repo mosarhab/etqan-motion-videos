@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "frames_checked": 1800,
+  "creator_present_in_all_frames": true,
+  "first_frame_visible_pixels": 511,
+  "minimum_visible_pixels": 509,
+  "maximum_visible_pixels": 512,
+  "creator_asset_sha256": "772ac5afad644b1c0b393418575d8f5e734adda3b0daa9da7757768c2756c55d",
+  "authentic_asset_preserved": true,
+  "display": "Original alpha/silhouette, white filter, width 46 px, height 26.90 px, opacity 0.9; left of email in persistent footer",
+  "crop_xywh": [
+    38,
+    1846,
+    54,
+    36
+  ]
+}

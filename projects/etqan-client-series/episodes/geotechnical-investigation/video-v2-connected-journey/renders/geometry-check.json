@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "rigStatesChecked": 499,
+  "journeyStatesChecked": 631,
+  "cupStatesChecked": 259,
+  "shearStatesChecked": 259,
+  "drillingInFirstSecond": true,
+  "openingHeadDisplacement": 10.133565094897307,
+  "connectedSampleTransfer": true,
+  "jarHoldsPositionThroughDissolve": true,
+  "sampleClearsGroundBeforeTransfer": true,
+  "normalLoadBeforeShear": true,
+  "cupStopsAfterClosure": true,
+  "copyHandoff": "No simultaneous title opacity across all five 18-frame transitions",
+  "approvedDrawingAndBrandFilesUnchanged": [
+    "src/Rig.tsx",
+    "src/Brand.tsx",
+    "src/GeoMaterials.tsx",
+    "public/etqan-logo.png",
+    "public/creator-logo-mask.png"
+  ],
+  "emptySiteOnly": true,
+  "noDisplayedDepthsOrTestResults": true,
+  "limitation": "Illustrative screen geometry, not a certified equipment model or a complete laboratory procedure"
+}
