@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "frames_checked": 348,
+  "minimum_age": 1,
+  "maximum_age": 28,
+  "all_28_ages_appear": true,
+  "age_increases_monotonically": true,
+  "endpoint_global_seconds": 41,
+  "endpoint_held_before_fade": true,
+  "aging_starts_after_immersion": true,
+  "age_since_casting_not_water_duration": true,
+  "endpoint_qualified_as_one_common_test_age": true,
+  "user_approved_standards_and_calibration_copy_present": true,
+  "limits": "Illustrative passage of sample age, not an actual specimen record or mandatory age for all tests; no certification or standard number is displayed."
+}
