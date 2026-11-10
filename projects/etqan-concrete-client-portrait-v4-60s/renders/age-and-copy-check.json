@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "frames_checked": 348,
+  "minimum_age": 1,
+  "maximum_age": 28,
+  "all_28_ages_appear": true,
+  "age_increases_monotonically": true,
+  "endpoint_global_seconds": 41,
+  "endpoint_held_before_fade": true,
+  "aging_starts_after_immersion": true,
+  "age_since_casting_not_water_duration": true,
+  "counter_subtitle_removed_as_requested": true,
+  "closing_contact_phone": "0551603205",
+  "persistent_footer_phone": "0535588975",
+  "user_approved_standards_and_calibration_copy_present": true,
+  "limits": "Illustrative passage of sample age, not an actual specimen record or mandatory age for all tests; no certification or standard number is displayed."
+}
