@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "baseline_commit": "45436ce2d16297fc3b1e271eaec356f06657aa70",
+  "previous_tracked_files_modified": [],
+  "hash_checks": [
+    {
+      "path": "projects/etqan-concrete-client-portrait-v8-contact-60s/renders/etqan-concrete-client-portrait-v8-contact-60s.mp4",
+      "sha256": "1c939a713d8f5789b94e972ee4bf38b880430108e9b48b2a5ea5406da1acbbe0",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/01-pouring-tests/video/renders/etqan-series-01-pouring-60s.mp4",
+      "sha256": "aa3ff2dd2bff2a13bf67ec0116e6caeffb8c98278be595699c74e0b032523ca3",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+      "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+      "unchanged": true
+    }
+  ],
+  "unrelated_user_frame_untouched": true,
+  "new_project_only": "projects/etqan-client-series/episodes/geotechnical-investigation/"
+}

@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "statesChecked": 499,
+  "copyHandoff": "No simultaneous title opacity across all five 18-frame transitions",
+  "physicalContinuity": [
+    "Single upright mast, no folded transport mast",
+    "Carriage remains within mast travel",
+    "Rigid rod/sampler length retained",
+    "Bore retains maximum drilled extent during withdrawal",
+    "Sampler lifted above ground before transfer"
+  ],
+  "carriageYRange": [
+    94,
+    404
+  ],
+  "illustrativeDepthOnly": true,
+  "noDisplayedDepthsOrSPTResults": true,
+  "limitation": "Screen geometry checks only; not equipment certification, CAD validation or a procedural drilling specification"
+}

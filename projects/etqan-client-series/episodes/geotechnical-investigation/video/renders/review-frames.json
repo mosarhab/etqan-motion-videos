@@ -1,0 +1,281 @@
+{
+  "video_sha256": "e9f8c7501d5353aab13ac035f74a80e98f5f4c45c1b6c7452b2cca1a4e14c4e5",
+  "representative": [
+    [
+      0,
+      "First frame"
+    ],
+    [
+      90,
+      "Episode title and rig"
+    ],
+    [
+      210,
+      "Single upright mast"
+    ],
+    [
+      330,
+      "Drilling begins"
+    ],
+    [
+      510,
+      "Soil investigation"
+    ],
+    [
+      660,
+      "Sample withdrawal"
+    ],
+    [
+      780,
+      "Preserved soil sample"
+    ],
+    [
+      855,
+      "Sealed sample"
+    ],
+    [
+      960,
+      "Laboratory sieves"
+    ],
+    [
+      1080,
+      "Gradation and classification"
+    ],
+    [
+      1200,
+      "Selected lab tests"
+    ],
+    [
+      1320,
+      "Integrated report"
+    ],
+    [
+      1455,
+      "Foundation recommendations"
+    ],
+    [
+      1620,
+      "Series identity"
+    ],
+    [
+      1710,
+      "Contact and creator"
+    ],
+    [
+      1799,
+      "Final frame"
+    ]
+  ],
+  "all_exported_frames": [
+    0,
+    45,
+    75,
+    90,
+    210,
+    239,
+    249,
+    259,
+    330,
+    390,
+    510,
+    570,
+    660,
+    700,
+    719,
+    729,
+    739,
+    750,
+    780,
+    855,
+    899,
+    909,
+    919,
+    960,
+    990,
+    1020,
+    1050,
+    1080,
+    1200,
+    1259,
+    1269,
+    1275,
+    1279,
+    1290,
+    1320,
+    1455,
+    1559,
+    1569,
+    1579,
+    1620,
+    1650,
+    1680,
+    1710,
+    1799
+  ],
+  "transition_frames": [
+    239,
+    249,
+    259,
+    719,
+    729,
+    739,
+    899,
+    909,
+    919,
+    1259,
+    1269,
+    1279,
+    1559,
+    1569,
+    1579
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        45,
+        75
+      ],
+      "diagram_mean_rgb_delta": 1.8747779022023143
+    },
+    {
+      "frames": [
+        330,
+        390
+      ],
+      "diagram_mean_rgb_delta": 6.871400709219858
+    },
+    {
+      "frames": [
+        510,
+        570
+      ],
+      "diagram_mean_rgb_delta": 4.754364501679731
+    },
+    {
+      "frames": [
+        660,
+        700
+      ],
+      "diagram_mean_rgb_delta": 2.1088409854423293
+    },
+    {
+      "frames": [
+        750,
+        780
+      ],
+      "diagram_mean_rgb_delta": 1.517263904441956
+    },
+    {
+      "frames": [
+        960,
+        990
+      ],
+      "diagram_mean_rgb_delta": 1.2474874020156774
+    },
+    {
+      "frames": [
+        1020,
+        1050
+      ],
+      "diagram_mean_rgb_delta": 0.6665696155281822
+    },
+    {
+      "frames": [
+        1275,
+        1290
+      ],
+      "diagram_mean_rgb_delta": 16.117200447928333
+    },
+    {
+      "frames": [
+        1650,
+        1680
+      ],
+      "diagram_mean_rgb_delta": 1.4909873086972751
+    }
+  ],
+  "persistent_branding": [
+    {
+      "frame": 0,
+      "header_mean_delta": 0.06023713482459357,
+      "footer_mean_delta": 0.016964285714285713
+    },
+    {
+      "frame": 90,
+      "header_mean_delta": 0.000782300452267449,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 210,
+      "header_mean_delta": 0.0015752964185307419,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 330,
+      "header_mean_delta": 0.7093402395795135,
+      "footer_mean_delta": 0.6779954805996473
+    },
+    {
+      "frame": 510,
+      "header_mean_delta": 0.5603685368536854,
+      "footer_mean_delta": 0.49108520723104054
+    },
+    {
+      "frame": 660,
+      "header_mean_delta": 0.5819780589170028,
+      "footer_mean_delta": 0.5064015652557319
+    },
+    {
+      "frame": 780,
+      "header_mean_delta": 0.7858941449700526,
+      "footer_mean_delta": 0.6477347883597884
+    },
+    {
+      "frame": 855,
+      "header_mean_delta": 0.7761596993032637,
+      "footer_mean_delta": 0.6390046296296297
+    },
+    {
+      "frame": 960,
+      "header_mean_delta": 0.7306151448478181,
+      "footer_mean_delta": 0.7543099647266314
+    },
+    {
+      "frame": 1080,
+      "header_mean_delta": 0.7425925925925926,
+      "footer_mean_delta": 0.6644868827160494
+    },
+    {
+      "frame": 1200,
+      "header_mean_delta": 0.7134763476347635,
+      "footer_mean_delta": 0.6332809744268078
+    },
+    {
+      "frame": 1320,
+      "header_mean_delta": 0.6737868231267571,
+      "footer_mean_delta": 0.686290233686067
+    },
+    {
+      "frame": 1455,
+      "header_mean_delta": 0.679533370003667,
+      "footer_mean_delta": 0.6498815035273369
+    },
+    {
+      "frame": 1620,
+      "header_mean_delta": 0.7163320498716539,
+      "footer_mean_delta": 0.7017416225749559
+    },
+    {
+      "frame": 1710,
+      "header_mean_delta": 0.7163320498716539,
+      "footer_mean_delta": 0.7017416225749559
+    },
+    {
+      "frame": 1799,
+      "header_mean_delta": 0.746465896589659,
+      "footer_mean_delta": 0.618479938271605
+    }
+  ],
+  "cover_frame": 90,
+  "review_labels": "Outside the film on this QA contact sheet only"
+}

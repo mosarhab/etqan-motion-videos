@@ -1,0 +1,33 @@
+{
+  "video": "etqan-series-geotechnical-60s.mp4",
+  "verified": true,
+  "duration_seconds": 60,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "color_range": "tv",
+  "audio_codec": "aac",
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_correlation_with_mixed_score": 0.9999999999999999,
+  "integrated_lufs": -18.01,
+  "true_peak_dbtp": -5.0,
+  "full_decode": "passed",
+  "faststart": true,
+  "source_sha256": "090d6a0d53af94ed56395948d835ac524a5fc79c11a985e2fce8effee286b7fc",
+  "sha256": "e9f8c7501d5353aab13ac035f74a80e98f5f4c45c1b6c7452b2cca1a4e14c4e5",
+  "bytes": 7738206,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_asset_unchanged": true,
+  "logo_display": "Previously authorized white lettering and original gold; original proportions and alpha",
+  "implementation": "Animated SVG engineering diagrams and React typography; no Three.js/WebGL models, photos, stock video or still-image scenes",
+  "voiceover_included": false,
+  "voiceover_status": "Original music/SFX only; new episode narration text and proposed recording cues supplied"
+}
