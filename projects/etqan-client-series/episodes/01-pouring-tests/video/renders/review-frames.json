@@ -1,0 +1,255 @@
+{
+  "representative": [
+    [
+      0,
+      "First frame"
+    ],
+    [
+      90,
+      "Series opening"
+    ],
+    [
+      225,
+      "Slump setup"
+    ],
+    [
+      390,
+      "Vertical cone lift"
+    ],
+    [
+      510,
+      "Settlement"
+    ],
+    [
+      660,
+      "Cone set down"
+    ],
+    [
+      780,
+      "Temperature scene"
+    ],
+    [
+      855,
+      "Probe lowering"
+    ],
+    [
+      990,
+      "Probe immersed"
+    ],
+    [
+      1155,
+      "Temperature benefit"
+    ],
+    [
+      1260,
+      "Both indicators"
+    ],
+    [
+      1455,
+      "Interpretation"
+    ],
+    [
+      1650,
+      "Series identity"
+    ],
+    [
+      1710,
+      "Contact and creator"
+    ],
+    [
+      1799,
+      "Final frame"
+    ]
+  ],
+  "all_exported_frames": [
+    0,
+    45,
+    75,
+    90,
+    179,
+    189,
+    199,
+    225,
+    390,
+    420,
+    510,
+    540,
+    600,
+    660,
+    719,
+    729,
+    739,
+    780,
+    810,
+    840,
+    855,
+    900,
+    930,
+    990,
+    1155,
+    1199,
+    1209,
+    1219,
+    1260,
+    1290,
+    1455,
+    1559,
+    1569,
+    1579,
+    1650,
+    1680,
+    1710,
+    1799
+  ],
+  "transition_frames": [
+    179,
+    189,
+    199,
+    719,
+    729,
+    739,
+    1199,
+    1209,
+    1219,
+    1559,
+    1569,
+    1579
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        45,
+        75
+      ],
+      "diagram_mean_rgb_delta": 1.214915080253826
+    },
+    {
+      "frames": [
+        390,
+        420
+      ],
+      "diagram_mean_rgb_delta": 4.977437943262411
+    },
+    {
+      "frames": [
+        510,
+        540
+      ],
+      "diagram_mean_rgb_delta": 13.935164706980217
+    },
+    {
+      "frames": [
+        600,
+        660
+      ],
+      "diagram_mean_rgb_delta": 8.574117207913401
+    },
+    {
+      "frames": [
+        810,
+        840
+      ],
+      "diagram_mean_rgb_delta": 1.2209089212392683
+    },
+    {
+      "frames": [
+        900,
+        930
+      ],
+      "diagram_mean_rgb_delta": 0.8564828294139605
+    },
+    {
+      "frames": [
+        1260,
+        1290
+      ],
+      "diagram_mean_rgb_delta": 1.5729773236282194
+    },
+    {
+      "frames": [
+        1650,
+        1680
+      ],
+      "diagram_mean_rgb_delta": 1.6978625419932811
+    }
+  ],
+  "persistent_branding": [
+    {
+      "frame": 0,
+      "header_mean_delta": 0.06539390050116123,
+      "footer_mean_delta": 0.01820436507936508
+    },
+    {
+      "frame": 90,
+      "header_mean_delta": 0.000782300452267449,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 225,
+      "header_mean_delta": 0.4095755408874221,
+      "footer_mean_delta": 0.4575396825396825
+    },
+    {
+      "frame": 390,
+      "header_mean_delta": 0.7009014790367926,
+      "footer_mean_delta": 0.6014688051146384
+    },
+    {
+      "frame": 510,
+      "header_mean_delta": 0.5607337122601149,
+      "footer_mean_delta": 0.4912285052910053
+    },
+    {
+      "frame": 660,
+      "header_mean_delta": 0.5891593325999267,
+      "footer_mean_delta": 0.5177414021164021
+    },
+    {
+      "frame": 780,
+      "header_mean_delta": 0.6798404840484048,
+      "footer_mean_delta": 0.5927689594356261
+    },
+    {
+      "frame": 855,
+      "header_mean_delta": 0.681337856007823,
+      "footer_mean_delta": 0.5930665784832452
+    },
+    {
+      "frame": 990,
+      "header_mean_delta": 0.664156276738785,
+      "footer_mean_delta": 0.5701444003527337
+    },
+    {
+      "frame": 1155,
+      "header_mean_delta": 0.5984445666788901,
+      "footer_mean_delta": 0.5012593694885361
+    },
+    {
+      "frame": 1260,
+      "header_mean_delta": 0.7039160860530498,
+      "footer_mean_delta": 0.593424823633157
+    },
+    {
+      "frame": 1455,
+      "header_mean_delta": 0.7132716049382716,
+      "footer_mean_delta": 0.5961640211640211
+    },
+    {
+      "frame": 1650,
+      "header_mean_delta": 0.6786150837305953,
+      "footer_mean_delta": 0.7112240961199294
+    },
+    {
+      "frame": 1710,
+      "header_mean_delta": 0.6784439555066618,
+      "footer_mean_delta": 0.7112240961199294
+    },
+    {
+      "frame": 1799,
+      "header_mean_delta": 0.7414726194841706,
+      "footer_mean_delta": 0.6182016093474427
+    }
+  ],
+  "cover_frame": 1710,
+  "review_labels": "Outside the film on this QA contact sheet only"
+}

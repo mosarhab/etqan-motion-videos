@@ -1,0 +1,28 @@
+{
+  "original_composition": true,
+  "external_samples": false,
+  "duration_seconds": 60,
+  "sample_rate": 48000,
+  "channels": 2,
+  "master_gain": 4.880901012475761,
+  "pcm_peak_dbfs": -4.844266955839762,
+  "voiceover_included": false,
+  "voiceover_status": "Professional Arabic speech service unavailable; music/SFX version with proposed narration guide supplied",
+  "cues": {
+    "cone_lift": [
+      11,
+      16
+    ],
+    "probe_lowering": [
+      26,
+      30.5
+    ],
+    "transitions": [
+      6,
+      24,
+      40,
+      52
+    ],
+    "brand_close": 52
+  }
+}

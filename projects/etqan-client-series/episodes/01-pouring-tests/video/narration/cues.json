@@ -1,0 +1,37 @@
+[
+  {
+    "scene": "opening",
+    "start": 0,
+    "end": 6,
+    "text": "وقت الصب… كل معلومة تفرق في القرار.",
+    "timing_status": "Proposed recording window; no speech recording has been generated or aligned"
+  },
+  {
+    "scene": "slump",
+    "start": 6,
+    "end": 24,
+    "text": "هبوط الخرسانة يساعد على فهم قوامها وقابليتها للتشغيل، ومدى توافقها مع متطلبات الصب. قراءة تدعم التقييم في الموقع، وتُفسَّر وفق متطلبات المشروع.",
+    "timing_status": "Proposed recording window; no speech recording has been generated or aligned"
+  },
+  {
+    "scene": "temperature",
+    "start": 24,
+    "end": 40,
+    "text": "ودرجة حرارتها… مؤشر مهم يرتبط بسلوكها أثناء التنفيذ. التحقّق من الحرارة يكمل الصورة، ويُقرأ مع ظروف الصب والمتطلبات الفنية المحدّدة.",
+    "timing_status": "Proposed recording window; no speech recording has been generated or aligned"
+  },
+  {
+    "scene": "interpretation",
+    "start": 40,
+    "end": 52,
+    "text": "لهذا، يجمع فحص الخرسانة أكثر من مؤشر… لتقييم أوضح يدعم القرار الهندسي. أما المقاومة، فتُقيّم باختبارها في العمر المحدّد.",
+    "timing_status": "Proposed recording window; no speech recording has been generated or aligned"
+  },
+  {
+    "scene": "closing",
+    "start": 52,
+    "end": 60,
+    "text": "مختبر إتقان البناء… معلومة تدعم قرارك. الدقة أساس الثقة.",
+    "timing_status": "Proposed recording window; no speech recording has been generated or aligned"
+  }
+]

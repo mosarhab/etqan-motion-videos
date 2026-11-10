@@ -1,0 +1,33 @@
+{
+  "video": "etqan-series-01-pouring-60s.mp4",
+  "verified": true,
+  "duration_seconds": 60,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "color_range": "tv",
+  "audio_codec": "aac",
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_correlation_with_mixed_score": 1.0,
+  "integrated_lufs": -18.01,
+  "true_peak_dbtp": -4.74,
+  "full_decode": "passed",
+  "faststart": true,
+  "source_sha256": "144efb98fc6aaa7fe3dc018ed389b0881145207460a41bdbaf0f5dec6b33f195",
+  "sha256": "aa3ff2dd2bff2a13bf67ec0116e6caeffb8c98278be595699c74e0b032523ca3",
+  "bytes": 5286389,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_asset_unchanged": true,
+  "logo_display": "Previously authorized white lettering and original gold; original proportions and alpha",
+  "implementation": "Animated SVG engineering diagrams and React typography; no Three.js/WebGL models, photos, stock video or still-image scenes",
+  "voiceover_included": false,
+  "voiceover_status": "Original music/SFX only; new episode narration text and proposed recording cues supplied"
+}

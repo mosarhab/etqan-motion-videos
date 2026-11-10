@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "frames_checked": 541,
+  "maximum_relative_frustum_volume_error": 4.2047431432796103e-16,
+  "vertical_lift_seconds": 5,
+  "horizontal_move_after_full_clearance": true,
+  "set_down_after_moving_aside": true,
+  "specimen_and_cone_separated_at_end": true,
+  "limits": "Engineering schematic checks, not an actual measured slump result or calibrated physical simulation. Equipment display has no fabricated temperature reading."
+}
