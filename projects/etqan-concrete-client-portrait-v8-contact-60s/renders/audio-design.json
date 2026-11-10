@@ -1,0 +1,69 @@
+{
+  "voiceover_included": true,
+  "voice_source": "User-supplied ElevenLabs recording",
+  "source_duration_seconds": 48.27429166666667,
+  "duration_seconds": 60,
+  "sample_rate": 48000,
+  "channels": 2,
+  "cues": [
+    {
+      "scene": "opening",
+      "source_start": 0.0,
+      "source_end": 2.8,
+      "target_start": 0.6,
+      "target_end": 3.4,
+      "speed_ratio": 1.0
+    },
+    {
+      "scene": "fresh",
+      "source_start": 3.0,
+      "source_end": 14.4,
+      "target_start": 6.45,
+      "target_end": 17.85,
+      "speed_ratio": 1.0
+    },
+    {
+      "scene": "samples",
+      "source_start": 14.4,
+      "source_end": 23.0,
+      "target_start": 20.55,
+      "target_end": 29.15,
+      "speed_ratio": 1.0
+    },
+    {
+      "scene": "curing",
+      "source_start": 23.0,
+      "source_end": 33.4,
+      "target_start": 32.4,
+      "target_end": 42.8,
+      "speed_ratio": 1.0
+    },
+    {
+      "scene": "compression",
+      "source_start": 33.4,
+      "source_end": 44.5,
+      "target_start": 43.45,
+      "target_end": 54.550000000000004,
+      "speed_ratio": 1.0
+    },
+    {
+      "scene": "closing",
+      "source_start": 44.5,
+      "source_end": 48.27429166666667,
+      "target_start": 55.75,
+      "target_end": 59.52429166666667,
+      "speed_ratio": 1.0
+    }
+  ],
+  "speed_changed": false,
+  "music_gain_db": -3.7417328671428884,
+  "additional_music_duck_db": -14.89454989793388,
+  "voice_gain": 1.0522675366417669,
+  "master_gain": 1.0359601308121456,
+  "speech_only_pcm_peak_dbfs": -2.1581079461903916,
+  "mixed_pcm_peak_dbfs": -1.938200260161129,
+  "review_method": "Automatic local speech recognition for paragraph identification, silence boundaries, waveform and signal checks; not human listening approval.",
+  "original_upload_excluded": true,
+  "soundtrack_unchanged_from_v6": true,
+  "upstream_score_sha256": "7484550a90c6314bd84472d41788c099654258f454e5bb9c0418bb06f68cb9bb"
+}

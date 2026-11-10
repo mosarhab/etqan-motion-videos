@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "encoded_audio_unchanged_from_approved_v6_mix": true,
+  "audio_packet_sha256": "SHA256=7d30653283f4eaac5b20a08d6d681c122b1029cf69f283aadd60f839d77cceb9",
+  "all_cues_fit_their_scenes": true,
+  "no_time_stretch": true,
+  "limits": "Unchanged encoded mix and cue timing verification, not new human listening approval."
+}

@@ -1,0 +1,33 @@
+{
+  "video": "etqan-concrete-client-portrait-v8-contact-60s.mp4",
+  "verified": true,
+  "duration_seconds": 60,
+  "frames": 1800,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "color_range": "tv",
+  "audio_codec": "aac",
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 60.0,
+  "audio_correlation_with_mixed_score": 1.0,
+  "integrated_lufs": -20.14,
+  "true_peak_dbtp": -1.92,
+  "full_decode": "passed",
+  "faststart": true,
+  "source_sha256": "3dbbbf21bfdb3b455fb8d09a26925b449b881a0ad34df4bc6ea92f334d253584",
+  "sha256": "1c939a713d8f5789b94e972ee4bf38b880430108e9b48b2a5ea5406da1acbbe0",
+  "bytes": 5658323,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_asset_unchanged": true,
+  "logo_display": "Previously authorized white lettering and original gold; original proportions and alpha",
+  "implementation": "Animated SVG engineering diagrams and React typography; no Three.js/WebGL models, photos, stock video or still-image scenes",
+  "voiceover_included": true,
+  "voiceover_status": "User-supplied Arabic recording aligned to six scenes; music ducked under speech"
+}
