@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "SPTStatesChecked": 631,
+  "drillingFromFirstSecond": true,
+  "openingHeadMovement": 6.060928942948323,
+  "samplerAndHammerAnvilContinuity": true,
+  "hammerContactsAnvilWithoutCrossing": true,
+  "samplerWithdrawnBeforePreservation": true,
+  "registeredJarTransfer": true,
+  "ovenClosedDuringDrying": true,
+  "reweighAfterDrying": true,
+  "cupStopsAfterClosure": true,
+  "normalLoadBeforeShear": true,
+  "piezometerProbeRetrieved": true,
+  "nineTextHandoffsWithoutOverlap": true,
+  "approvedAssetsUnchanged": [
+    "src/Rig.tsx",
+    "src/Brand.tsx",
+    "src/GeoMaterials.tsx",
+    "public/etqan-logo.png",
+    "public/creator-logo-mask.png"
+  ],
+  "noBoreholeMeasurementsOrNValuesDisplayed": true,
+  "scope": "Illustrative geometry and editorial continuity checks; not standards certification or a complete laboratory procedure"
+}

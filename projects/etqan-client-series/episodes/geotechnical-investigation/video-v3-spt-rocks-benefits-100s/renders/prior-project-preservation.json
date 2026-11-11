@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "baseline_commit": "d7796faab385b5d6d4ec928aeabc5c6e26bd96af",
+  "previous_tracked_files_modified": [],
+  "hash_checks": [
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v2-connected-journey/renders/etqan-series-geotechnical-v2-60s.mp4",
+      "sha256": "ecac83645e7a39295981dff8c9e193894675e0e3feaabe9c1dd0a0fea4d5a360",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video/renders/etqan-series-geotechnical-60s.mp4",
+      "sha256": "e9f8c7501d5353aab13ac035f74a80e98f5f4c45c1b6c7452b2cca1a4e14c4e5",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/01-pouring-tests/video/renders/etqan-series-01-pouring-60s.mp4",
+      "sha256": "aa3ff2dd2bff2a13bf67ec0116e6caeffb8c98278be595699c74e0b032523ca3",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+      "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+      "unchanged": true
+    }
+  ]
+}

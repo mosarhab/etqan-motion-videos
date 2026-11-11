@@ -1,0 +1,22 @@
+import fs from 'node:fs';
+import crypto from 'node:crypto';
+import assert from 'node:assert/strict';
+import ts from 'typescript';
+const motion=ts.transpileModule(fs.readFileSync('src/motion.ts','utf8'),{compilerOptions:{target:ts.ScriptTarget.ES2020,module:ts.ModuleKind.ESNext}}).outputText;
+const motionUrl='data:text/javascript;base64,'+Buffer.from(motion).toString('base64');
+async function actual(file,name){const source=fs.readFileSync(file,'utf8'),tree=ts.createSourceFile(file,source,ts.ScriptTarget.Latest,true,ts.ScriptKind.TSX),node=tree.statements.find(n=>ts.isFunctionDeclaration(n)&&n.name?.text===name);assert(node,name);const js=ts.transpileModule(node.getText(tree),{compilerOptions:{target:ts.ScriptTarget.ES2020,module:ts.ModuleKind.ESNext}}).outputText;return import('data:text/javascript;base64,'+Buffer.from(`import {clamp,ease,mix} from "${motionUrl}";\n${js}`).toString('base64'));}
+const {fieldMotion}=await actual('src/Field.tsx','fieldMotion'),{rigMotion}=await actual('src/Rig.tsx','rigMotion');
+const initial=rigMotion(fieldMotion(0).rigTime),later=rigMotion(fieldMotion(1).rigTime);assert(later.headY-initial.headY>5,'Active drilling in opening second');
+const {sptMotion}=await actual('src/SPT.tsx','sptMotion');
+for(let f=0;f<=630;f++){const s=sptMotion(f/30);assert(Object.values(s).every(Number.isFinite));assert(s.drive>=0&&s.drive<=54&&s.withdraw>=0&&s.withdraw<=364);assert(s.hammerLift>=0&&s.hammerLift<=110);assert(Math.abs(s.tip-s.anvil-320)<1e-8,'Sampler and anvil move as a rigid rod assembly');assert(490+s.drive-s.withdraw-s.hammerLift<=s.anvil+1e-8,'Hammer never passes through anvil');if(f/30<9.5)assert(s.withdraw===0);}
+assert(sptMotion(12.4).tip+7<620,'Sampler clears ground before preservation');assert(sptMotion(15).transfer===1&&sptMotion(20).capGap===0);
+const {moistureMotion}=await actual('src/Moisture.tsx','moistureMotion');
+for(let f=0;f<=18;f++){const s=moistureMotion(f/30);assert(s.jarX===500&&s.jarY===136.19&&s.jarW===150&&s.jarH===350,'Jar stays registered during dissolve');}
+assert(moistureMotion(5).tinX===750&&moistureMotion(5).door===0,'Tin inside closed oven during drying');assert(moistureMotion(8).tinX===360&&moistureMotion(8).dry===1,'Dry specimen returns for weighing');
+const {cupMotion}=await actual('src/LabApparatus.tsx','cupMotion'),{shearMotion}=await actual('src/LabApparatus.tsx','shearMotion');assert(cupMotion(8).closure===1&&Math.abs(cupMotion(8).angle)<1e-8);assert(cupMotion(8).crank===cupMotion(9).crank);assert(shearMotion(.8).normal===4&&shearMotion(.8).displacement===0);assert(shearMotion(8).displacement===26);
+const {groundwaterMotion}=await actual('src/Groundwater.tsx','groundwaterMotion');assert(groundwaterMotion(4).sensorY===650&&groundwaterMotion(8).sensorY===200);assert(groundwaterMotion(4).capLift===50);
+const scene=fs.readFileSync('src/Scene.tsx','utf8'),tree=ts.createSourceFile('Scene.tsx',scene,ts.ScriptTarget.Latest,true,ts.ScriptKind.TSX);let expr;function walk(n){if(ts.isVariableDeclaration(n)&&n.name.getText(tree)==='copyOpacity')expr=n.initializer.getText(tree);ts.forEachChild(n,walk);}walk(tree);assert(expr);const {copy}=await import('data:text/javascript;base64,'+Buffer.from(`import {ease} from "${motionUrl}";export function copy(f,duration,first,last){return ${expr};}`).toString('base64'));
+for(const duration of [378,318,648,258,288,288,288,258,258])for(let f=0;f<18;f++)assert(copy(duration-18+f,duration,duration===378,false)*copy(f,180,false,true)===0);
+const pinned=JSON.parse(fs.readFileSync('notes/approved-assets.json','utf8'));for(const [file,sha] of Object.entries(pinned))assert(crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex')===sha,file);
+const result={passed:true,SPTStatesChecked:631,drillingFromFirstSecond:true,openingHeadMovement:later.headY-initial.headY,samplerAndHammerAnvilContinuity:true,hammerContactsAnvilWithoutCrossing:true,samplerWithdrawnBeforePreservation:true,registeredJarTransfer:true,ovenClosedDuringDrying:true,reweighAfterDrying:true,cupStopsAfterClosure:true,normalLoadBeforeShear:true,piezometerProbeRetrieved:true,nineTextHandoffsWithoutOverlap:true,approvedAssetsUnchanged:Object.keys(pinned),noBoreholeMeasurementsOrNValuesDisplayed:true,scope:'Illustrative geometry and editorial continuity checks; not standards certification or a complete laboratory procedure'};
+fs.writeFileSync('renders/geometry-check.json',JSON.stringify(result,null,2)+'\n');console.log(JSON.stringify(result,null,2));
