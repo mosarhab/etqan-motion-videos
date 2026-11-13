@@ -1,0 +1,33 @@
+{
+  "video": "etqan-series-geotechnical-v5-100s.mp4",
+  "verified": true,
+  "duration_seconds": 100,
+  "frames": 3000,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "video_codec": "h264",
+  "pixel_format": "yuv420p",
+  "color_space": "bt709",
+  "color_range": "tv",
+  "audio_codec": "aac",
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 100.0,
+  "audio_correlation_with_mixed_score": 1.0,
+  "integrated_lufs": -18.01,
+  "true_peak_dbtp": -3.83,
+  "full_decode": "passed",
+  "faststart": true,
+  "source_sha256": "e06a7c25b96ec90dcd9d2dff1e3b0b41b7c4998dcb7a0119377f8e65cb2379d3",
+  "sha256": "3732fd645987e92fde938c5c39e55098eedaa01e0f3fdeb6b649cec1d81f3146",
+  "bytes": 12318037,
+  "logo_sha256": "0d045e5b4fa7d3a856cdfab0d404c23e610aa148f51ede740c84a4acd81b2af8",
+  "logo_asset_unchanged": true,
+  "logo_display": "Previously authorized white lettering and original gold; original proportions and alpha",
+  "implementation": "Animated SVG engineering diagrams and React typography; no Three.js/WebGL models, photos, stock video or still-image scenes",
+  "voiceover_included": false,
+  "voiceover_status": "User requested no generated human speech; original music/SFX, latest performance text only; new user-reported 90-second recording not supplied or synchronized"
+}

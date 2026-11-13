@@ -1,0 +1,43 @@
+{
+  "verified": true,
+  "baseline_commit": "87ba226db5433c4bf1e7bfda99871bf51b42c6b0",
+  "tracked_previous_files_unchanged": true,
+  "checks": [
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v3-spt-rocks-benefits-100s/renders/etqan-series-geotechnical-v3-100s.mp4",
+      "sha256": "c8da4e391c289b9e547aa53b6144b66bb52c02570cb5b5342b35a602dec021dd",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v2-connected-journey/renders/etqan-series-geotechnical-v2-60s.mp4",
+      "sha256": "ecac83645e7a39295981dff8c9e193894675e0e3feaabe9c1dd0a0fea4d5a360",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video/renders/etqan-series-geotechnical-60s.mp4",
+      "sha256": "e9f8c7501d5353aab13ac035f74a80e98f5f4c45c1b6c7452b2cca1a4e14c4e5",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/01-pouring-tests/video/renders/etqan-series-01-pouring-60s.mp4",
+      "sha256": "aa3ff2dd2bff2a13bf67ec0116e6caeffb8c98278be595699c74e0b032523ca3",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-concrete-client-portrait-v8-contact-60s/renders/etqan-concrete-client-portrait-v8-contact-60s.mp4",
+      "sha256": "1c939a713d8f5789b94e972ee4bf38b880430108e9b48b2a5ea5406da1acbbe0",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+      "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v4-site-opening-100s/renders/etqan-series-geotechnical-v4-100s.mp4",
+      "sha256": "d9503d2499c994011fb55a48a01722bcfd7e7f04ce09c61de30cff4d5511c7e8",
+      "unchanged": true
+    }
+  ],
+  "scope": "Independent V5 only; original private report and unrelated user image preserved and excluded from the public project."
+}

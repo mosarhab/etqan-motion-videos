@@ -1,0 +1,63 @@
+{
+  "reviewed": true,
+  "scope": "Full film content and illustrative geometry compared with relevant field, laboratory, groundwater and recommendation sections and appendices of the user-supplied report; not an independent audit of engineering calculations or standards compliance.",
+  "private_report_published": false,
+  "source_pdf_pages": [
+    6,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18,
+    19,
+    20,
+    21,
+    22,
+    54,
+    55,
+    56,
+    58,
+    66,
+    67
+  ],
+  "changes": [
+    {
+      "previous": "Direct shear scene",
+      "current": "Rock-core compression",
+      "basis_pdf_pages": [
+        15,
+        54
+      ],
+      "reason": "Direct shear not documented in this report; rock-core compression is documented."
+    },
+    {
+      "previous": "Piezometer installation/monitoring scene",
+      "current": "Chemical extract preparation and acidity measurement",
+      "basis_pdf_pages": [
+        14,
+        15,
+        22,
+        67
+      ],
+      "reason": "Report documents water observations, not a piezometer installation; chemistry is documented."
+    },
+    {
+      "previous": "SPT invisible drive rod",
+      "current": "Nonzero-area connected rod, hammer, anvil and sampler close-up",
+      "basis_pdf_pages": [
+        12
+      ],
+      "reason": "Correct the schematic visibility failure and maintain the physical connection."
+    }
+  ],
+  "qualifications": [
+    "Rock families are generic examples, not site lithology.",
+    "Atterberg scene illustrates a method, not a claimed plasticity result for report specimens.",
+    "No fixed groundwater table, confirmed cavities, measured values or universal concrete specification inferred.",
+    "Not all laboratory report items are shown in the short film."
+  ],
+  "audit_document": "notes/report-content-review.md",
+  "final_video_sha256": "3732fd645987e92fde938c5c39e55098eedaa01e0f3fdeb6b649cec1d81f3146",
+  "technical_export_checks_passed": true
+}

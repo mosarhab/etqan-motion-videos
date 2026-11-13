@@ -1,0 +1,81 @@
+{
+  "verified": true,
+  "previous_source_sha256": "539b073ffc61d48704567d64192fdc03d0ea0fdeb0e84ae22c391ac3aeba38e5",
+  "new_source_sha256": "e06a7c25b96ec90dcd9d2dff1e3b0b41b7c4998dcb7a0119377f8e65cb2379d3",
+  "changed_source_files": [
+    "src/RockStrength.tsx"
+  ],
+  "scene_frame_range": [
+    2070,
+    2357
+  ],
+  "rerendered_parts": [
+    [
+      1800,
+      2099
+    ],
+    [
+      2100,
+      2399
+    ]
+  ],
+  "retained_muted_parts": [
+    {
+      "frames": [
+        0,
+        299
+      ],
+      "sha256": "c634851abfcf3458b7e9132d0bceeb4f5fbbe1207635d8a4553aa78a2f3ece25"
+    },
+    {
+      "frames": [
+        300,
+        599
+      ],
+      "sha256": "8a3932ccb502d5eda587919c271395ba38503840dab35143ad5a3ca0f9a33a76"
+    },
+    {
+      "frames": [
+        600,
+        899
+      ],
+      "sha256": "ddc0bd4d74f3db89e1911c56f272fc167f7de88c5ea8fd6400fa0e3861f9bc92"
+    },
+    {
+      "frames": [
+        900,
+        1199
+      ],
+      "sha256": "5bf6002018439d7f40df85e7c690951fae7be521ab1d05c816bac01ac13c1d8e"
+    },
+    {
+      "frames": [
+        1200,
+        1499
+      ],
+      "sha256": "3ff86113b4b9dec300fb7daa667fa243cfe9b4788952f6beb62f060e1c57b8ca"
+    },
+    {
+      "frames": [
+        1500,
+        1799
+      ],
+      "sha256": "ed040fa6017d61b976fcfa6dbbde15d5d6ba86828ca93f20d8f395148d01a2e7"
+    },
+    {
+      "frames": [
+        2400,
+        2699
+      ],
+      "sha256": "a5793aa0fcd9d9fd48731168e66d5e4d8fd377e4ff614f1cedc1343570d45030"
+    },
+    {
+      "frames": [
+        2700,
+        2999
+      ],
+      "sha256": "5c5dab71a8d0f8afb7d2e1240a8facbb25f84bdb46b7d314058be35404fc5d7c"
+    }
+  ],
+  "basis": "Within this V5 production only: all source and public assets except RockStrength.tsx are byte-identical, including timeline. Both chunks intersecting the changed scene are rendered again; the full master and all export checks are regenerated."
+}

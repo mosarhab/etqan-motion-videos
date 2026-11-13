@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "video_sha256": "3732fd645987e92fde938c5c39e55098eedaa01e0f3fdeb6b649cec1d81f3146",
+  "source": "Frames decoded from the delivered MP4, not source preview stills",
+  "checks": [
+    {
+      "frame": 750,
+      "visible_shaft_row_fraction": 1.0,
+      "minimum_shaft_background_difference": 116.27499999999999
+    },
+    {
+      "frame": 870,
+      "visible_shaft_row_fraction": 1.0,
+      "minimum_shaft_background_difference": 117.79166666666667
+    }
+  ],
+  "shaft_crop_xywh": [
+    535,
+    1230,
+    10,
+    45
+  ],
+  "scope": "Encoded rod visibility regression; mechanical geometry is checked separately."
+}
