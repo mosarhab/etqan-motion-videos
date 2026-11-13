@@ -1,0 +1,79 @@
+{
+  "verified": true,
+  "previous_source_sha256": "3e439d0fa4a1368f4a602fe22550138fce4adc437a474bb04656a252c5bec075",
+  "new_source_sha256": "9f35f5c2e11fcc512b2b57234bdf50ed7b4fb43b7c6a549cca714bdbe449335a",
+  "changed_visual_frame_range": [
+    0,
+    377
+  ],
+  "raster_parts_rerendered": [
+    [
+      0,
+      299
+    ],
+    [
+      300,
+      599
+    ]
+  ],
+  "retained_muted_parts": [
+    {
+      "frames": [
+        600,
+        899
+      ],
+      "sha256": "1d4431f50fd55c2a60d32f94af2f76278d854edfcd21876ce4cae690184c4827"
+    },
+    {
+      "frames": [
+        900,
+        1199
+      ],
+      "sha256": "beac6c9c8692d9d748fd8e9458d92424d3e7174b4e7af40e1ba2533ffd2c88b8"
+    },
+    {
+      "frames": [
+        1200,
+        1499
+      ],
+      "sha256": "8ff89eb5a98a5206b56423a085b7e5d7b7cda2f78db0cf24c814a9147193f80f"
+    },
+    {
+      "frames": [
+        1500,
+        1799
+      ],
+      "sha256": "9a7a1a73a852792756a86ad4c227d7c67d7e968a94af2978d850b1c7ab0ba5bf"
+    },
+    {
+      "frames": [
+        1800,
+        2099
+      ],
+      "sha256": "b343e9bfe74880424035a06288dfccdcfc3b6353941860e0cb2c8fea82cae9dd"
+    },
+    {
+      "frames": [
+        2100,
+        2399
+      ],
+      "sha256": "ba9f1ff4b616ef53f971644f03323cece3a25757f4adeadd4baea3697f2c2df3"
+    },
+    {
+      "frames": [
+        2400,
+        2699
+      ],
+      "sha256": "ad05064bfdd6abd171adf1addd685f614268cb5a69003d21858ef3d14820cd59"
+    },
+    {
+      "frames": [
+        2700,
+        2999
+      ],
+      "sha256": "66a0a09faf33128d7d9651cca1075babaa16a59ed917f7f771eea6215c0d5b85"
+    }
+  ],
+  "basis": "All other scene code/assets and all timeline positions/durations are byte-identical after normalizing composition ID and first-scene Studio label. The master is encoded again for all 3000 frames with the updated soundtrack.",
+  "voice_recording_used": false
+}
