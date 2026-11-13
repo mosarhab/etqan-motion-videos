@@ -1,0 +1,158 @@
+{
+  "fullPlaybackEnded": true,
+  "fullPlaybackRate": 2,
+  "finalTime": 100,
+  "duration": 100,
+  "width": 1080,
+  "height": 1920,
+  "playbackAdvanced": 1.82596,
+  "seeks": [
+    {
+      "requested": 1.2,
+      "actual": 1.2,
+      "readyState": 4
+    },
+    {
+      "requested": 4.4,
+      "actual": 4.4,
+      "readyState": 4
+    },
+    {
+      "requested": 7,
+      "actual": 7,
+      "readyState": 4
+    },
+    {
+      "requested": 10.6,
+      "actual": 10.6,
+      "readyState": 4
+    },
+    {
+      "requested": 13.1,
+      "actual": 13.1,
+      "readyState": 4
+    },
+    {
+      "requested": 14.8,
+      "actual": 14.8,
+      "readyState": 4
+    },
+    {
+      "requested": 15.6,
+      "actual": 15.6,
+      "readyState": 4
+    },
+    {
+      "requested": 17.1,
+      "actual": 17.1,
+      "readyState": 4
+    },
+    {
+      "requested": 19.4,
+      "actual": 19.4,
+      "readyState": 4
+    },
+    {
+      "requested": 22.9,
+      "actual": 22.9,
+      "readyState": 4
+    },
+    {
+      "requested": 26.5,
+      "actual": 26.5,
+      "readyState": 4
+    },
+    {
+      "requested": 30,
+      "actual": 30,
+      "readyState": 4
+    },
+    {
+      "requested": 33.8,
+      "actual": 33.8,
+      "readyState": 4
+    },
+    {
+      "requested": 37.5,
+      "actual": 37.5,
+      "readyState": 4
+    },
+    {
+      "requested": 40,
+      "actual": 40,
+      "readyState": 4
+    },
+    {
+      "requested": 43.3,
+      "actual": 43.3,
+      "readyState": 4
+    },
+    {
+      "requested": 47.5,
+      "actual": 47.5,
+      "readyState": 4
+    },
+    {
+      "requested": 51.5,
+      "actual": 51.5,
+      "readyState": 4
+    },
+    {
+      "requested": 54.2,
+      "actual": 54.2,
+      "readyState": 4
+    },
+    {
+      "requested": 58.5,
+      "actual": 58.5,
+      "readyState": 4
+    },
+    {
+      "requested": 62.2,
+      "actual": 62.2,
+      "readyState": 4
+    },
+    {
+      "requested": 66.5,
+      "actual": 66.5,
+      "readyState": 4
+    },
+    {
+      "requested": 71.4,
+      "actual": 71.4,
+      "readyState": 4
+    },
+    {
+      "requested": 76,
+      "actual": 76,
+      "readyState": 4
+    },
+    {
+      "requested": 80.5,
+      "actual": 80.5,
+      "readyState": 4
+    },
+    {
+      "requested": 85.8,
+      "actual": 85.8,
+      "readyState": 4
+    },
+    {
+      "requested": 90.2,
+      "actual": 90.2,
+      "readyState": 4
+    },
+    {
+      "requested": 95.3,
+      "actual": 95.3,
+      "readyState": 4
+    },
+    {
+      "requested": 99,
+      "actual": 99,
+      "readyState": 4
+    }
+  ],
+  "error": null,
+  "videoSha256": "80864fe4a9b339b53ba0299898993bbd6faa6a148fe12223ea27cfc86429ff82"
+}

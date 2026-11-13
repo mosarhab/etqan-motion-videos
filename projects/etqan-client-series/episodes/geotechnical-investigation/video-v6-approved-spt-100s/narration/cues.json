@@ -1,0 +1,62 @@
+{
+  "status": "Pending the actual new recording. User reported 90 seconds; file not supplied. No voiceover generated, included or synchronized.",
+  "language": "ar",
+  "video_duration_seconds": 100,
+  "reported_recording_duration_seconds": 90,
+  "alignment_verified": false,
+  "scope": "Approved mounted SPT visual composition and clarified chemistry benefit. Actual new narration recording not supplied; no synchronization claimed.",
+  "opening_visual_window": [
+    0,
+    4.5
+  ],
+  "visual_windows": [
+    {
+      "start": "00:00",
+      "end": "00:04"
+    },
+    {
+      "start": "00:04",
+      "end": "00:12"
+    },
+    {
+      "start": "00:12",
+      "end": "00:22"
+    },
+    {
+      "start": "00:22",
+      "end": "00:35"
+    },
+    {
+      "start": "00:35",
+      "end": "00:43"
+    },
+    {
+      "start": "00:43",
+      "end": "00:51"
+    },
+    {
+      "start": "00:51",
+      "end": "01:00"
+    },
+    {
+      "start": "01:00",
+      "end": "01:09"
+    },
+    {
+      "start": "01:09",
+      "end": "01:18"
+    },
+    {
+      "start": "01:18",
+      "end": "01:26"
+    },
+    {
+      "start": "01:26",
+      "end": "01:34"
+    },
+    {
+      "start": "01:34",
+      "end": "01:40"
+    }
+  ]
+}

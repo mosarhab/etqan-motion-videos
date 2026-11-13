@@ -1,0 +1,81 @@
+{
+  "verified": true,
+  "previous_source_sha256": "e06a7c25b96ec90dcd9d2dff1e3b0b41b7c4998dcb7a0119377f8e65cb2379d3",
+  "new_source_sha256": "7f4b1b03e446ca97481b24415849cf014f736d272c43689404553fe98d0bbb5c",
+  "changed_source_files": [
+    "src/Chemistry.tsx",
+    "src/Root.tsx",
+    "src/SPT.tsx",
+    "src/SPTDetail.tsx"
+  ],
+  "changed_visual_frame_ranges": [
+    [
+      660,
+      1307
+    ],
+    [
+      2340,
+      2597
+    ]
+  ],
+  "rerendered_parts": [
+    [
+      600,
+      899
+    ],
+    [
+      900,
+      1199
+    ],
+    [
+      1200,
+      1499
+    ],
+    [
+      2100,
+      2399
+    ],
+    [
+      2400,
+      2699
+    ]
+  ],
+  "retained_muted_parts": [
+    {
+      "frames": [
+        0,
+        299
+      ],
+      "sha256": "c634851abfcf3458b7e9132d0bceeb4f5fbbe1207635d8a4553aa78a2f3ece25"
+    },
+    {
+      "frames": [
+        300,
+        599
+      ],
+      "sha256": "8a3932ccb502d5eda587919c271395ba38503840dab35143ad5a3ca0f9a33a76"
+    },
+    {
+      "frames": [
+        1500,
+        1799
+      ],
+      "sha256": "ed040fa6017d61b976fcfa6dbbde15d5d6ba86828ca93f20d8f395148d01a2e7"
+    },
+    {
+      "frames": [
+        1800,
+        2099
+      ],
+      "sha256": "ef0f4c4d2992e7016225a78b6b80f190a632e16743035748012124cf0789ac72"
+    },
+    {
+      "frames": [
+        2700,
+        2999
+      ],
+      "sha256": "5c5dab71a8d0f8afb7d2e1240a8facbb25f84bdb46b7d314058be35404fc5d7c"
+    }
+  ],
+  "basis": "Only SPT and Chemistry visual code changes; all other scene code, all public assets, pinned dependencies and the complete timeline are identical. Every part intersecting those scenes is rendered again. The full master and all delivery checks are regenerated."
+}

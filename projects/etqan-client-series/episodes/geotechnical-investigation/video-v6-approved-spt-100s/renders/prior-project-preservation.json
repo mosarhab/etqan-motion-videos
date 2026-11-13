@@ -1,0 +1,53 @@
+{
+  "verified": true,
+  "baseline_commit": "1ed503456a63f2e189686f240010933882baeb31",
+  "tracked_previous_files_unchanged": true,
+  "checks": [
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v3-spt-rocks-benefits-100s/renders/etqan-series-geotechnical-v3-100s.mp4",
+      "sha256": "c8da4e391c289b9e547aa53b6144b66bb52c02570cb5b5342b35a602dec021dd",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v2-connected-journey/renders/etqan-series-geotechnical-v2-60s.mp4",
+      "sha256": "ecac83645e7a39295981dff8c9e193894675e0e3feaabe9c1dd0a0fea4d5a360",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video/renders/etqan-series-geotechnical-60s.mp4",
+      "sha256": "e9f8c7501d5353aab13ac035f74a80e98f5f4c45c1b6c7452b2cca1a4e14c4e5",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/01-pouring-tests/video/renders/etqan-series-01-pouring-60s.mp4",
+      "sha256": "aa3ff2dd2bff2a13bf67ec0116e6caeffb8c98278be595699c74e0b032523ca3",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-concrete-client-portrait-v8-contact-60s/renders/etqan-concrete-client-portrait-v8-contact-60s.mp4",
+      "sha256": "1c939a713d8f5789b94e972ee4bf38b880430108e9b48b2a5ea5406da1acbbe0",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-materials-cinematic-v5-60s/renders/etqan-full-frame-soil.png",
+      "sha256": "55e7a0cea9e2c7af04cfa1ed164d365426f6d3a43143be41d4bcb10cbfdaee0d",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v4-site-opening-100s/renders/etqan-series-geotechnical-v4-100s.mp4",
+      "sha256": "d9503d2499c994011fb55a48a01722bcfd7e7f04ce09c61de30cff4d5511c7e8",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/video-v5-spt-report-review-100s/renders/etqan-series-geotechnical-v5-100s.mp4",
+      "sha256": "3732fd645987e92fde938c5c39e55098eedaa01e0f3fdeb6b649cec1d81f3146",
+      "unchanged": true
+    },
+    {
+      "path": "projects/etqan-client-series/episodes/geotechnical-investigation/design-reviews/spt-closeup/etqan-spt-closeup-concept.png",
+      "sha256": "0f51c38c512ed05652ee7226c21493be2967618bd9dc66ab15d83a1f6f451b69",
+      "unchanged": true
+    }
+  ],
+  "scope": "Independent V6 only; previous source/video, approved concept and unrelated user image are unchanged; private report excluded."
+}

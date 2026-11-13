@@ -1,0 +1,682 @@
+{
+  "video_sha256": "80864fe4a9b339b53ba0299898993bbd6faa6a148fe12223ea27cfc86429ff82",
+  "representative": [
+    [
+      0,
+      "Vacant site opening"
+    ],
+    [
+      15,
+      "Boundary starts"
+    ],
+    [
+      30,
+      "Site perimeter"
+    ],
+    [
+      45,
+      "Perspective change"
+    ],
+    [
+      60,
+      "Soil layers revealed"
+    ],
+    [
+      75,
+      "Cutaway continues"
+    ],
+    [
+      90,
+      "Full soil section"
+    ],
+    [
+      105,
+      "Terrain handoff"
+    ],
+    [
+      120,
+      "Rig reveal"
+    ],
+    [
+      135,
+      "Approved rig and title"
+    ],
+    [
+      150,
+      "Drilling begins"
+    ],
+    [
+      180,
+      "Continuous drilling"
+    ],
+    [
+      225,
+      "Title handoff"
+    ],
+    [
+      240,
+      "Site investigation"
+    ],
+    [
+      450,
+      "Sedimentary igneous metamorphic"
+    ],
+    [
+      690,
+      "Mounted detail reveal"
+    ],
+    [
+      750,
+      "Mounted guided hammer"
+    ],
+    [
+      780,
+      "Hammer lift"
+    ],
+    [
+      789,
+      "Hammer contacts anvil"
+    ],
+    [
+      870,
+      "SPT drive at borehole base"
+    ],
+    [
+      960,
+      "Sampler withdrawal"
+    ],
+    [
+      1020,
+      "Sampler clears soil"
+    ],
+    [
+      1032,
+      "Transfer begins"
+    ],
+    [
+      1050,
+      "Recovered sample transfer"
+    ],
+    [
+      1080,
+      "Container transition"
+    ],
+    [
+      1170,
+      "Sample preservation"
+    ],
+    [
+      1290,
+      "Laboratory transition"
+    ],
+    [
+      1380,
+      "Natural water content"
+    ],
+    [
+      1470,
+      "Drying"
+    ],
+    [
+      1515,
+      "Reweighing dried sample"
+    ],
+    [
+      1590,
+      "Grading preparation"
+    ],
+    [
+      1740,
+      "Soil grading and classification"
+    ],
+    [
+      1890,
+      "Liquid limit cup"
+    ],
+    [
+      2010,
+      "Local groove closure"
+    ],
+    [
+      2160,
+      "Rock core platen approach"
+    ],
+    [
+      2247,
+      "Rock core under load"
+    ],
+    [
+      2280,
+      "Rock core cracking"
+    ],
+    [
+      2400,
+      "Chemical extract preparation"
+    ],
+    [
+      2490,
+      "Acidity probe submerged"
+    ],
+    [
+      2520,
+      "Chemical tests and durability"
+    ],
+    [
+      2640,
+      "Field and laboratory integration"
+    ],
+    [
+      2760,
+      "Geotechnical recommendations"
+    ],
+    [
+      2910,
+      "Brand and contact"
+    ],
+    [
+      2999,
+      "Final frame"
+    ]
+  ],
+  "all_exported_frames": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75,
+    90,
+    105,
+    120,
+    135,
+    150,
+    180,
+    225,
+    240,
+    359,
+    369,
+    379,
+    390,
+    420,
+    450,
+    659,
+    669,
+    679,
+    690,
+    720,
+    738,
+    750,
+    780,
+    789,
+    840,
+    852,
+    870,
+    960,
+    1020,
+    1032,
+    1050,
+    1080,
+    1110,
+    1170,
+    1200,
+    1289,
+    1290,
+    1299,
+    1309,
+    1320,
+    1380,
+    1392,
+    1416,
+    1470,
+    1515,
+    1529,
+    1539,
+    1549,
+    1590,
+    1605,
+    1680,
+    1740,
+    1799,
+    1809,
+    1819,
+    1890,
+    1900,
+    1908,
+    2010,
+    2069,
+    2079,
+    2089,
+    2160,
+    2247,
+    2250,
+    2280,
+    2339,
+    2349,
+    2359,
+    2400,
+    2460,
+    2490,
+    2520,
+    2579,
+    2589,
+    2599,
+    2640,
+    2690,
+    2760,
+    2819,
+    2829,
+    2839,
+    2910,
+    2940,
+    2999
+  ],
+  "transition_frames": [
+    359,
+    369,
+    379,
+    659,
+    669,
+    679,
+    1289,
+    1299,
+    1309,
+    1529,
+    1539,
+    1549,
+    1799,
+    1809,
+    1819,
+    2069,
+    2079,
+    2089,
+    2339,
+    2349,
+    2359,
+    2579,
+    2589,
+    2599,
+    2819,
+    2829,
+    2839
+  ],
+  "motion_evidence": [
+    {
+      "frames": [
+        0,
+        15
+      ],
+      "diagram_mean_rgb_delta": 0.12541433370660696
+    },
+    {
+      "frames": [
+        15,
+        30
+      ],
+      "diagram_mean_rgb_delta": 2.4316848637551325
+    },
+    {
+      "frames": [
+        30,
+        60
+      ],
+      "diagram_mean_rgb_delta": 21.34979609929078
+    },
+    {
+      "frames": [
+        60,
+        90
+      ],
+      "diagram_mean_rgb_delta": 33.689518010451664
+    },
+    {
+      "frames": [
+        90,
+        120
+      ],
+      "diagram_mean_rgb_delta": 18.47318915640164
+    },
+    {
+      "frames": [
+        120,
+        135
+      ],
+      "diagram_mean_rgb_delta": 9.345162840612169
+    },
+    {
+      "frames": [
+        135,
+        180
+      ],
+      "diagram_mean_rgb_delta": 3.2531653602090334
+    },
+    {
+      "frames": [
+        180,
+        240
+      ],
+      "diagram_mean_rgb_delta": 7.010066256065696
+    },
+    {
+      "frames": [
+        390,
+        420
+      ],
+      "diagram_mean_rgb_delta": 14.13557110862262
+    },
+    {
+      "frames": [
+        720,
+        738
+      ],
+      "diagram_mean_rgb_delta": 5.719007092198582
+    },
+    {
+      "frames": [
+        840,
+        852
+      ],
+      "diagram_mean_rgb_delta": 6.697704367301232
+    },
+    {
+      "frames": [
+        960,
+        1020
+      ],
+      "diagram_mean_rgb_delta": 13.89126679731243
+    },
+    {
+      "frames": [
+        1050,
+        1110
+      ],
+      "diagram_mean_rgb_delta": 10.751150615901455
+    },
+    {
+      "frames": [
+        1170,
+        1200
+      ],
+      "diagram_mean_rgb_delta": 1.2198273609555805
+    },
+    {
+      "frames": [
+        1320,
+        1380
+      ],
+      "diagram_mean_rgb_delta": 10.894583333333333
+    },
+    {
+      "frames": [
+        1392,
+        1416
+      ],
+      "diagram_mean_rgb_delta": 1.8871421239268384
+    },
+    {
+      "frames": [
+        1605,
+        1680
+      ],
+      "diagram_mean_rgb_delta": 2.0849589399029487
+    },
+    {
+      "frames": [
+        1900,
+        1908
+      ],
+      "diagram_mean_rgb_delta": 1.6814898282941395
+    },
+    {
+      "frames": [
+        2160,
+        2250
+      ],
+      "diagram_mean_rgb_delta": 8.000771276595744
+    },
+    {
+      "frames": [
+        2400,
+        2460
+      ],
+      "diagram_mean_rgb_delta": 1.5124029488615154
+    },
+    {
+      "frames": [
+        2640,
+        2690
+      ],
+      "diagram_mean_rgb_delta": 21.666289660321016
+    },
+    {
+      "frames": [
+        2910,
+        2940
+      ],
+      "diagram_mean_rgb_delta": 1.4959322508398656
+    }
+  ],
+  "persistent_branding": [
+    {
+      "frame": 0,
+      "header_mean_delta": 0.05602921403251436,
+      "footer_mean_delta": 0.015619488536155203
+    },
+    {
+      "frame": 15,
+      "header_mean_delta": 0.0013399951106221734,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 30,
+      "header_mean_delta": 0.0,
+      "footer_mean_delta": 0.0
+    },
+    {
+      "frame": 45,
+      "header_mean_delta": 0.01024324654687691,
+      "footer_mean_delta": 0.0013447971781305114
+    },
+    {
+      "frame": 60,
+      "header_mean_delta": 0.009651937415963818,
+      "footer_mean_delta": 0.0013447971781305114
+    },
+    {
+      "frame": 75,
+      "header_mean_delta": 0.008858941449700525,
+      "footer_mean_delta": 0.0013447971781305114
+    },
+    {
+      "frame": 90,
+      "header_mean_delta": 0.009784867375626451,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 105,
+      "header_mean_delta": 0.009002566923359002,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 120,
+      "header_mean_delta": 0.009784867375626451,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 135,
+      "header_mean_delta": 0.01442977631096443,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 150,
+      "header_mean_delta": 0.014419080796968586,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 180,
+      "header_mean_delta": 0.015358758098032025,
+      "footer_mean_delta": 0.0028494268077601413
+    },
+    {
+      "frame": 225,
+      "header_mean_delta": 0.015337367070040337,
+      "footer_mean_delta": 0.006817680776014109
+    },
+    {
+      "frame": 240,
+      "header_mean_delta": 0.015361813959173696,
+      "footer_mean_delta": 0.009975749559082892
+    },
+    {
+      "frame": 450,
+      "header_mean_delta": 0.7512620706515096,
+      "footer_mean_delta": 0.795527447089947
+    },
+    {
+      "frame": 690,
+      "header_mean_delta": 0.8745217577313287,
+      "footer_mean_delta": 0.8646494708994709
+    },
+    {
+      "frame": 750,
+      "header_mean_delta": 0.7801414863708593,
+      "footer_mean_delta": 0.7200314153439153
+    },
+    {
+      "frame": 780,
+      "header_mean_delta": 0.776323187874343,
+      "footer_mean_delta": 0.7195050705467372
+    },
+    {
+      "frame": 789,
+      "header_mean_delta": 0.776323187874343,
+      "footer_mean_delta": 0.7195050705467372
+    },
+    {
+      "frame": 870,
+      "header_mean_delta": 0.7672167216721673,
+      "footer_mean_delta": 0.6822751322751323
+    },
+    {
+      "frame": 960,
+      "header_mean_delta": 0.7533553355335534,
+      "footer_mean_delta": 0.6204668209876543
+    },
+    {
+      "frame": 1020,
+      "header_mean_delta": 0.7068542965407651,
+      "footer_mean_delta": 0.5713403880070547
+    },
+    {
+      "frame": 1032,
+      "header_mean_delta": 0.6991428309497616,
+      "footer_mean_delta": 0.5688519620811288
+    },
+    {
+      "frame": 1050,
+      "header_mean_delta": 0.7008128590636842,
+      "footer_mean_delta": 0.5688519620811288
+    },
+    {
+      "frame": 1080,
+      "header_mean_delta": 0.7002689157804669,
+      "footer_mean_delta": 0.5688519620811288
+    },
+    {
+      "frame": 1170,
+      "header_mean_delta": 0.6997096931915414,
+      "footer_mean_delta": 0.5930941358024692
+    },
+    {
+      "frame": 1290,
+      "header_mean_delta": 0.5817397017479525,
+      "footer_mean_delta": 0.49028328924162257
+    },
+    {
+      "frame": 1380,
+      "header_mean_delta": 0.582818420730962,
+      "footer_mean_delta": 0.49028328924162257
+    },
+    {
+      "frame": 1470,
+      "header_mean_delta": 0.6090927148270383,
+      "footer_mean_delta": 0.5061342592592593
+    },
+    {
+      "frame": 1515,
+      "header_mean_delta": 0.5897048038137147,
+      "footer_mean_delta": 0.4910659171075838
+    },
+    {
+      "frame": 1590,
+      "header_mean_delta": 0.5890584891822516,
+      "footer_mean_delta": 0.49134424603174603
+    },
+    {
+      "frame": 1740,
+      "header_mean_delta": 0.5892571201564601,
+      "footer_mean_delta": 0.49134424603174603
+    },
+    {
+      "frame": 1890,
+      "header_mean_delta": 0.7415963818604082,
+      "footer_mean_delta": 0.6583856922398589
+    },
+    {
+      "frame": 2010,
+      "header_mean_delta": 0.758281383693925,
+      "footer_mean_delta": 0.669226741622575
+    },
+    {
+      "frame": 2160,
+      "header_mean_delta": 0.6773071751619606,
+      "footer_mean_delta": 0.6241126543209876
+    },
+    {
+      "frame": 2247,
+      "header_mean_delta": 0.6692931793179318,
+      "footer_mean_delta": 0.6198936287477954
+    },
+    {
+      "frame": 2280,
+      "header_mean_delta": 0.5809130913091309,
+      "footer_mean_delta": 0.491385582010582
+    },
+    {
+      "frame": 2400,
+      "header_mean_delta": 0.7612364014179196,
+      "footer_mean_delta": 0.6613618827160493
+    },
+    {
+      "frame": 2490,
+      "header_mean_delta": 0.7097298618750764,
+      "footer_mean_delta": 0.6236469356261023
+    },
+    {
+      "frame": 2520,
+      "header_mean_delta": 0.5753560078230046,
+      "footer_mean_delta": 0.49028328924162257
+    },
+    {
+      "frame": 2640,
+      "header_mean_delta": 0.6829116244957829,
+      "footer_mean_delta": 0.6431024029982363
+    },
+    {
+      "frame": 2760,
+      "header_mean_delta": 0.5810811636719228,
+      "footer_mean_delta": 0.49028328924162257
+    },
+    {
+      "frame": 2910,
+      "header_mean_delta": 0.7425589781200342,
+      "footer_mean_delta": 0.7438657407407407
+    },
+    {
+      "frame": 2999,
+      "header_mean_delta": 0.7076549321598826,
+      "footer_mean_delta": 0.6769675925925925
+    }
+  ],
+  "cover_frame": 750,
+  "review_labels": "Outside the film on this QA contact sheet only"
+}
